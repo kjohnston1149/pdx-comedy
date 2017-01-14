@@ -279,11 +279,19 @@ hr {
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
-  margin: 5px; }
+  margin: 5px;
+  max-width: 90%; }
   .display a {
     text-decoration: underline; }
     .display a:hover {
       color: #8c2ecc; }
+  @media only screen and (max-width: 690px) {
+    .display h1 {
+      font-size: 1.5em; }
+    .display h2 {
+      font-size: 1.25em; }
+    .display p, .display h4 {
+      font-size: 1em; } }
 
 .row {
   display: flex; }
