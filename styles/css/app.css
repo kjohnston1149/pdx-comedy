@@ -1,0 +1,322 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+* {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFF;
+  text-decoration: none; }
+
+body {
+  background: #1c1c1c;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-right: auto;
+  margin: auto;
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url("../pdx-comedy/public/assets/img/bg.png");
+  max-width: 1200px; }
+
+hr {
+  width: 85%;
+  align-self: center;
+  opacity: 0.5; }
+
+.navbar {
+  background-color: #353535;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 15%;
+  -webkit-box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.75); }
+  @media only screen and (max-width: 915px) {
+    .navbar {
+      flex-direction: column;
+      height: 100%;
+      padding-bottom: 5px; } }
+  .navbar ul {
+    list-style: none;
+    padding: 0;
+    width: 53%;
+    display: flex;
+    justify-content: space-around; }
+    @media only screen and (max-width: 915px) {
+      .navbar ul {
+        width: 70%; } }
+    @media only screen and (max-width: 690px) {
+      .navbar ul {
+        width: 97%; } }
+    .navbar ul li {
+      text-transform: uppercase; }
+      .navbar ul li a {
+        transition: background 250ms ease-in-out;
+        padding: 20px; }
+        .navbar ul li a:hover {
+          background: #7024a3; }
+        @media only screen and (max-width: 915px) {
+          .navbar ul li a {
+            padding: 2px 10px; } }
+  .navbar img {
+    height: 5rem; }
+
+.footer {
+  width: 100%;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  background-color: #353535; }
+  .footer::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+.img-gallery {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex-wrap: wrap; }
+  .img-gallery [class*="big-img-"] {
+    flex: 2;
+    height: 20rem;
+    display: flex;
+    justify-content: flex-start; }
+    @media only screen and (max-width: 915px) {
+      .img-gallery [class*="big-img-"] {
+        height: 15rem; } }
+    @media only screen and (max-width: 690px) {
+      .img-gallery [class*="big-img-"] {
+        height: 10rem; } }
+  .img-gallery [class*="small-img-"] {
+    flex: 1;
+    height: 20rem;
+    display: flex;
+    justify-content: flex-start; }
+    @media only screen and (max-width: 915px) {
+      .img-gallery [class*="small-img-"] {
+        height: 15rem; } }
+    @media only screen and (max-width: 690px) {
+      .img-gallery [class*="small-img-"] {
+        height: 10rem; } }
+
+.big-img-1 {
+  content: "";
+  background-image: url("/Users/Kevin/Desktop/pdx-comedy/public/assets/img/jon-w.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.big-img-2 {
+  content: "";
+  background-image: url("../img/rafferty.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.small-img-1 {
+  content: "";
+  background-image: url("../img/nariko.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.small-img-2 {
+  content: "";
+  background-image: url("/../img/andie-m.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.small-img-3 {
+  content: "";
+  background-image: url("../img/barbra-h.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.small-img-4 {
+  content: "";
+  background-image: url("img/jake-s.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.link-tiles {
+  margin: 5% 0;
+  display: flex;
+  height: 100%;
+  justify-content: space-around; }
+  @media only screen and (max-width: 690px) {
+    .link-tiles {
+      flex-direction: column; } }
+  .link-tiles .tile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 25%;
+    flex-basis: 25%;
+    transition: all 250ms ease-in-out; }
+    .link-tiles .tile:hover {
+      transform: scale(1.15); }
+    @media only screen and (max-width: 915px) {
+      .link-tiles .tile {
+        width: 30%;
+        height: 350px; } }
+    @media only screen and (max-width: 690px) {
+      .link-tiles .tile {
+        height: 300px;
+        width: 100%; } }
+    .link-tiles .tile h2 {
+      font-size: 2.6rem; }
+      @media only screen and (max-width: 915px) {
+        .link-tiles .tile h2 {
+          font-size: 2rem; } }
+
+#o-m-link {
+  content: "";
+  background-image: url("../img/avalon.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+#show-link {
+  content: "";
+  background-image: url("../img/dinah-f.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+#link-link {
+  content: "";
+  background-image: url("../img/nick-p.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+.top-img {
+  height: 600px;
+  position: relative;
+  display: flex;
+  justify-content: center; }
+  .top-img .top-text {
+    font-size: 3rem; }
+  @media only screen and (max-width: 915px) {
+    .top-img {
+      height: 400px; }
+      .top-img .top-text {
+        font-size: 2rem; } }
+  @media only screen and (max-width: 690px) {
+    .top-img {
+      height: 300px; }
+      .top-img .top-text {
+        font-size: 2rem; } }
+
+#open-mic-img {
+  content: "";
+  background-image: url("../assets/img/rochelle-c.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+  #open-mic-img .top-text {
+    align-self: center; }
+
+#showcases-img {
+  content: "";
+  background-image: url("../assets/img/tony-c.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+  #showcases-img .top-text {
+    align-self: center; }
+
+#links-img {
+  content: "";
+  background-image: url("../assets/img/dma.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+  #links-img .top-text {
+    margin-top: 8%; }
+
+.display {
+  align-self: center;
+  line-height: 1.75;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 5px; }
+  .display a {
+    text-decoration: underline; }
+    .display a:hover {
+      color: #8c2ecc; }
+
+.row {
+  display: flex; }
+
+.navbar ul li a {
+  border-radius: 10%; }
+
+.page-title {
+  text-align: center;
+  position: absolute;
+  width: 75%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 40%;
+  z-index: 1;
+  font-size: 5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: rgba(83, 27, 121, 0.5);
+  border-radius: 10px; }
+  @media only screen and (max-width: 915px) {
+    .page-title {
+      font-size: 3rem; } }
+  @media only screen and (max-width: 690px) {
+    .page-title {
+      width: 85%;
+      left: 6%;
+      right: 6%; } }
+
+button {
+  color: #353535;
+  border-radius: 10px; }
+
+/*# sourceMappingURL=app.css.map */

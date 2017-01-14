@@ -1,0 +1,8 @@
+.footer {
+  width: 100%;
+  @include clearfix;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  background-color: $navbar;
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: $text-color;
+  text-decoration: none;
+}
+
+body {
+  background: darken($navbar, 10%);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-right: auto;
+  margin: auto;
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url("../pdx-comedy/public/assets/img/bg.png");
+  max-width: 1200px;
+}
+
+hr {
+  width: 85%;
+  align-self: center;
+  opacity: 0.5;
+}

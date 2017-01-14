@@ -1,0 +1,167 @@
+.img-gallery {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex-wrap: wrap;
+    [class*="big-img-"]{
+      flex: 2;
+      height: 20rem;
+      @media only screen and (#{$break-tablet}) {
+        height: 15rem;
+      }
+      @media only screen and (#{$break-mobile}) {
+        height: 10rem;
+      }
+      display: flex;
+      justify-content: flex-start;
+    }
+    [class*="small-img-"] {
+      flex: 1;
+      height: 20rem;
+      @media only screen and (#{$break-tablet}) {
+        height: 15rem;
+      }
+      @media only screen and (#{$break-mobile}) {
+        height: 10rem;
+      }
+      display: flex;
+      justify-content: flex-start;
+    }
+}
+.big-img-1{
+  @include background-img("/Users/Kevin/Desktop/pdx-comedy/public/assets/img/jon-w.jpg");
+}
+
+.big-img-2{
+  @include background-img("../img/rafferty.jpg");
+}
+
+.small-img-1{
+  @include background-img("../img/nariko.jpg");
+}
+.small-img-2{
+  @include background-img("/../img/andie-m.jpg");
+}
+.small-img-3{
+  @include background-img("../img/barbra-h.jpg");
+}
+.small-img-4{
+  @include background-img("img/jake-s.jpg");
+}
+
+.link-tiles {
+  margin: 5% 0;
+  display: flex;
+  height: 100%;
+  justify-content: space-around;
+  @media only screen and (#{$break-mobile}) {
+    flex-direction: column;
+
+  }
+  .tile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 25%;
+    flex-basis: 25%;
+    transition: all 250ms ease-in-out;
+    &:hover {
+      transform: scale(1.15);
+    }
+    @media only screen and (#{$break-tablet}) {
+      width: 30%;
+      height: 350px;
+    }
+    @media only screen and (#{$break-mobile}) {
+      height: 300px;
+      width: 100%;
+    }
+    h2 {
+      font-size: 2.6rem;
+      // &:hover {
+      //   color: lighten($accent-color, 20%);
+      // }
+      @media only screen and (#{$break-tablet}) {
+        font-size: 2rem;
+
+      }
+
+    }
+
+  }
+}
+#o-m-link {
+  @include background-img('../img/avalon.jpg');
+}
+#show-link {
+  @include background-img('../img/dinah-f.jpg');
+}
+#link-link {
+  @include background-img('../img/nick-p.jpg');
+}
+.top-img {
+  height: 600px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  .top-text {
+    font-size: 3rem;
+  }
+  @media only screen and (#{$break-tablet}) {
+    height: 400px;
+    .top-text {
+      font-size: 2rem;
+    }
+  }
+
+  @media only screen and (#{$break-mobile}) {
+    height: 300px;
+    .top-text {
+      font-size: 2rem;
+    }
+  }
+
+}
+#open-mic-img {
+  @include background-img("../assets/img/rochelle-c.jpg");
+  .top-text {
+    align-self: center;
+    // margin-top: 20%;
+  }
+}
+#showcases-img {
+  @include background-img("../assets/img/tony-c.jpg");
+  .top-text {
+    align-self: center;
+  }
+}
+#links-img {
+  @include background-img("../assets/img/dma.jpg");
+  .top-text {
+    margin-top: 8%;
+  }
+}
+
+.display {
+  align-self: center;
+  line-height: 1.75;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 5px;
+  a {
+    text-decoration: underline;
+    &:hover {
+      color: lighten($accent-color, 20%);
+    }
+  }
+
+  @media only screen and (#{$break-mobile}) {
+    // transform: scale(0.9);
+    // margin-top: 0;
+  }
+}
