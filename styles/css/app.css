@@ -24,7 +24,7 @@ body {
   max-width: 1200px; }
 
 hr {
-  width: 85%;
+  width: 100%;
   align-self: center;
   opacity: 0.5; }
 
@@ -273,7 +273,7 @@ hr {
 .display {
   align-self: center;
   line-height: 1.75;
-  text-align: center;
+  text-align: left;
   display: flex;
   flex-direction: column;
   justify-content: center;

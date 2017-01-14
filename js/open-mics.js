@@ -78,7 +78,7 @@
           if (description == null) {
             $('.display').append('<br><hr><br>')
           } else {
-            $('.display').append('<h3>' + description + '</h3><br><hr><br>');
+            $('.display').append('<p>' + description + '</p><br><hr><br>');
           }
 
         }
