@@ -19,7 +19,11 @@ _This app is a basic html refactoring of the Ember.js project for Portland Comed
 
 ## Known Bugs
 
-_N/A_
+* If pop-ups are blocked on the site, the Google Calendar API cannot authorize the app on a computer.  This may be fixed with further manipulation of the API code.
+
+* Currently requires user to use a Google Account to authorize API.  Cannot access the API if not logged into an account.
+
+* API is returning twice as many events as the JS files specify. 
 
 ## Support and contact details
 
