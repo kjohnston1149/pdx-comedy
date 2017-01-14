@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>PortlandComedy- Showcases</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="styles/css/app.css">
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html"><img src="public/assets/img/logo.png" alt="logo" /></a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="open-mics.html">Open Mics</a></li>
+        <li><a href="showcases.html">Showcases</a></li>
+        <li><a href="links.html">Links</a></li>
+      </ul>
+    </div>
+    <div class="top-img" id="showcases-img">
+      <div class="top-text">
+        <h3>Upcoming</h3>
+        <h1>Showcases</h1>
+      </div>
+    </div>
+      <div class="display">
+        <div id="authorize-div">
+            <span>Click here to view upcoming events:</span>
+            <!--Button for the user to click to initiate auth sequence -->
+            <button id="authorize-button" onclick="handleAuthClick(event)">
+              Authorize
+            </button>
+          </div>
+      </div>
+      <div class="footer">
+        <p>
+          &copy; 2016 Kevin Johnston - Photos by Deira Bowie
+        </p>
+      </div>
+      <script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+    <script src="https://apis.google.com/js/client.js?onload=checkAuth">
+    </script>
+    <script src="js/moment.min.js"></script>
+    <script>
+        moment().format();
+    </script>
+    <script type="text/javascript" src="js/showcases.js">
+
+    </script>
+  </body>
+</html>
