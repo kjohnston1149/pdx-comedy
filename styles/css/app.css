@@ -317,6 +317,7 @@ hr {
 
 button {
   color: #353535;
-  border-radius: 10px; }
+  border-radius: 10px;
+  box-shadow: none; }
 
 /*# sourceMappingURL=app.css.map */
