@@ -4,8 +4,6 @@
 
     var SCOPES = ["https://www.googleapis.com/auth/calendar.readonly"];
 
-    var eventsArray = [];
-
     $.getScript("https://apis.google.com/js/client.js?onload=checkAuth", function() {
     }).then(function handleAuthClick() {
        gapi.auth.authorize(
