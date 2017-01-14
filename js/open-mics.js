@@ -6,7 +6,7 @@
 
     var eventsArray = [];
 
-   
+
 
     $.getScript("https://apis.google.com/js/client.js?onload=checkAuth", function() {
     }).then(function handleAuthClick() {
@@ -64,7 +64,6 @@
       if (events.length > 0) {
         for (var i = 0; i < events.length; i++) {
           var event = events[i];
-          console.log(event);
           var name = event.summary;
           $('.display').append('<h1>' + name + '</h1>');
           var when = event.start.dateTime;
