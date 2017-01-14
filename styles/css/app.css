@@ -239,7 +239,7 @@ hr {
 
 #open-mic-img {
   content: "";
-  background-image: url("../../public/assets/assets/img/rochelle-c.jpg");
+  background-image: url("../../public/assets/img/rochelle-c.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -250,7 +250,7 @@ hr {
 
 #showcases-img {
   content: "";
-  background-image: url("../../public/assets/assets/img/tony-c.jpg");
+  background-image: url("../../public/assets/img/tony-c.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -261,7 +261,7 @@ hr {
 
 #links-img {
   content: "";
-  background-image: url("../../public/assets/assets/img/dma.jpg");
+  background-image: url("../../public/assets/img/dma.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -124,20 +124,20 @@
 
 }
 #open-mic-img {
-  @include background-img("../../public/assets/assets/img/rochelle-c.jpg");
+  @include background-img("../../public/assets/img/rochelle-c.jpg");
   .top-text {
     align-self: center;
     // margin-top: 20%;
   }
 }
 #showcases-img {
-  @include background-img("../../public/assets/assets/img/tony-c.jpg");
+  @include background-img("../../public/assets/img/tony-c.jpg");
   .top-text {
     align-self: center;
   }
 }
 #links-img {
-  @include background-img("../../public/assets/assets/img/dma.jpg");
+  @include background-img("../../public/assets/img/dma.jpg");
   .top-text {
     margin-top: 8%;
   }
