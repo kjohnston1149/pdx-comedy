@@ -29,24 +29,24 @@
     }
 }
 .big-img-1{
-  @include background-img("/Users/Kevin/Desktop/pdx-comedy/public/assets/img/jon-w.jpg");
+  @include background-img("../../public/assets/img/jon-w.jpg");
 }
 
 .big-img-2{
-  @include background-img("../img/rafferty.jpg");
+  @include background-img("../../public/assets/img/rafferty.jpg");
 }
 
 .small-img-1{
-  @include background-img("../img/nariko.jpg");
+  @include background-img("../../public/assets/img/nariko.jpg");
 }
 .small-img-2{
-  @include background-img("/../img/andie-m.jpg");
+  @include background-img("../../public/assets/img/andie-m.jpg");
 }
 .small-img-3{
-  @include background-img("../img/barbra-h.jpg");
+  @include background-img("../../public/assets/img/barbra-h.jpg");
 }
 .small-img-4{
-  @include background-img("img/jake-s.jpg");
+  @include background-img("../../public/assets/img/jake-s.jpg");
 }
 
 .link-tiles {
@@ -92,13 +92,13 @@
   }
 }
 #o-m-link {
-  @include background-img('../img/avalon.jpg');
+  @include background-img('../../public/assets/img/avalon.jpg');
 }
 #show-link {
-  @include background-img('../img/dinah-f.jpg');
+  @include background-img('../../public/assets/img/dinah-f.jpg');
 }
 #link-link {
-  @include background-img('../img/nick-p.jpg');
+  @include background-img('../../public/assets/img/nick-p.jpg');
 }
 .top-img {
   height: 600px;
@@ -124,20 +124,20 @@
 
 }
 #open-mic-img {
-  @include background-img("../assets/img/rochelle-c.jpg");
+  @include background-img("../../public/assets/assets/img/rochelle-c.jpg");
   .top-text {
     align-self: center;
     // margin-top: 20%;
   }
 }
 #showcases-img {
-  @include background-img("../assets/img/tony-c.jpg");
+  @include background-img("../../public/assets/assets/img/tony-c.jpg");
   .top-text {
     align-self: center;
   }
 }
 #links-img {
-  @include background-img("../assets/img/dma.jpg");
+  @include background-img("../../public/assets/assets/img/dma.jpg");
   .top-text {
     margin-top: 8%;
   }

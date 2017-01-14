@@ -20,7 +20,7 @@ body {
   min-height: 100%;
   flex-direction: column;
   justify-content: space-between;
-  background-image: url("../pdx-comedy/public/assets/img/bg.png");
+  background-image: url("../../public/assets/img/bg.png");
   max-width: 1200px; }
 
 hr {
@@ -108,7 +108,7 @@ hr {
 
 .big-img-1 {
   content: "";
-  background-image: url("/Users/Kevin/Desktop/pdx-comedy/public/assets/img/jon-w.jpg");
+  background-image: url("../../public/assets/img/jon-w.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -117,7 +117,7 @@ hr {
 
 .big-img-2 {
   content: "";
-  background-image: url("../img/rafferty.jpg");
+  background-image: url("../../public/assets/img/rafferty.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -126,7 +126,7 @@ hr {
 
 .small-img-1 {
   content: "";
-  background-image: url("../img/nariko.jpg");
+  background-image: url("../../public/assets/img/nariko.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -135,7 +135,7 @@ hr {
 
 .small-img-2 {
   content: "";
-  background-image: url("/../img/andie-m.jpg");
+  background-image: url("../../public/assets/img/andie-m.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@ hr {
 
 .small-img-3 {
   content: "";
-  background-image: url("../img/barbra-h.jpg");
+  background-image: url("../../public/assets/img/barbra-h.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -153,7 +153,7 @@ hr {
 
 .small-img-4 {
   content: "";
-  background-image: url("img/jake-s.jpg");
+  background-image: url("../../public/assets/img/jake-s.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -194,7 +194,7 @@ hr {
 
 #o-m-link {
   content: "";
-  background-image: url("../img/avalon.jpg");
+  background-image: url("../../public/assets/img/avalon.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@ hr {
 
 #show-link {
   content: "";
-  background-image: url("../img/dinah-f.jpg");
+  background-image: url("../../public/assets/img/dinah-f.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -212,7 +212,7 @@ hr {
 
 #link-link {
   content: "";
-  background-image: url("../img/nick-p.jpg");
+  background-image: url("../../public/assets/img/nick-p.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -239,7 +239,7 @@ hr {
 
 #open-mic-img {
   content: "";
-  background-image: url("../assets/img/rochelle-c.jpg");
+  background-image: url("../../public/assets/assets/img/rochelle-c.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -250,7 +250,7 @@ hr {
 
 #showcases-img {
   content: "";
-  background-image: url("../assets/img/tony-c.jpg");
+  background-image: url("../../public/assets/assets/img/tony-c.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -261,7 +261,7 @@ hr {
 
 #links-img {
   content: "";
-  background-image: url("../assets/img/dma.jpg");
+  background-image: url("../../public/assets/assets/img/dma.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
