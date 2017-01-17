@@ -16,14 +16,11 @@ _This app is a basic html refactoring of the Ember.js project for Portland Comed
 3. Open index.html in the browser of your choice (we suggest Chrome)
 4. Alternatively, if using Atom, run "$ apm install atom-live-server" in the command line and launch a live local server by using the short cut "ctrl-shift-3".  For more information, visit https://atom.io/packages/atom-live-server.
 5. To edit the SCSS files, run the command "$ sass --watch scss:css" in the command line.
+6. View live site on gh-pages at https://kjohnston1149.github.io/pdx-comedy/index.html.
 
 ## Known Bugs
 
-* If pop-ups are blocked on the site, the Google Calendar API cannot authorize the app on a computer.  This may be fixed with further manipulation of the API code.
-
-* Currently requires user to use a Google Account to authorize API.  Cannot access the API if not logged into an account.
-
-* API is returning twice as many events as the JS files specify. 
+* No known bugs at this time.
 
 ## Support and contact details
 
@@ -32,7 +29,7 @@ _For help, contact:_
 
 ## Technologies Used
 
-_This application uses HTML, CSS, JavaScript, and JQuerey._
+_This application uses HTML, CSS, JavaScript, and JQuery._
 
 ### License
 
