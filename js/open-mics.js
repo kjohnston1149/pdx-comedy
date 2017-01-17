@@ -92,6 +92,30 @@ $.ajax({
     dataType: 'json',
     success: function (response) {
         console.log(response);
+        var events = response.items;
+
+        if (events.length > 0) {
+          for (var i = 0; i < events.length; i++) {
+            var event = events[i];
+            var name = event.summary;
+            $('.display').append('<h1>' + name + '</h1>');
+            var when = event.start.dateTime;
+            $('.display').append('<h2>' + moment(when).format("dddd, MMMM Do YYYY, h:mm a") + '</h2>');
+            var where = event.location;
+            if (where == null) {
+              $('.display').append('')
+            } else {
+            $('.display').append('<h2>' + where + '</h2>');
+            }
+            var description = event.description;
+            if (description == null) {
+              $('.display').append('<br><hr><br>')
+            } else {
+              $('.display').append('<p>' + description + '</p><br><hr><br>');
+            }
+
+          }
+        }
     },
     error: function (response) {
         console.log("lol nope!");
