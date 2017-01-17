@@ -14,13 +14,8 @@
 }
 
 body {
+  @include clearfix;
   background: darken($navbar, 10%);
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  margin-right: auto;
-  margin: auto;
-  min-height: 100%;
   flex-direction: column;
   justify-content: space-between;
   background-image: url("../../public/assets/img/bg.png");
