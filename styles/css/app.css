@@ -58,7 +58,7 @@ hr {
     @media only screen and (max-width: 915px) {
       .navbar ul {
         width: 70%; } }
-    @media only screen and (max-width: 690px) {
+    @media only screen and (max-width: 705px) {
       .navbar ul {
         width: 97%; } }
     .navbar ul li {
@@ -99,7 +99,7 @@ hr {
     @media only screen and (max-width: 915px) {
       .img-gallery [class*="big-img-"] {
         height: 15rem; } }
-    @media only screen and (max-width: 690px) {
+    @media only screen and (max-width: 705px) {
       .img-gallery [class*="big-img-"] {
         height: 10rem; } }
   .img-gallery [class*="small-img-"] {
@@ -110,7 +110,7 @@ hr {
     @media only screen and (max-width: 915px) {
       .img-gallery [class*="small-img-"] {
         height: 15rem; } }
-    @media only screen and (max-width: 690px) {
+    @media only screen and (max-width: 705px) {
       .img-gallery [class*="small-img-"] {
         height: 10rem; } }
 
@@ -173,7 +173,7 @@ hr {
   display: flex;
   height: 100%;
   justify-content: space-around; }
-  @media only screen and (max-width: 690px) {
+  @media only screen and (max-width: 705px) {
     .link-tiles {
       display: block; } }
   .link-tiles .tile {
@@ -190,7 +190,7 @@ hr {
       .link-tiles .tile {
         width: 30%;
         height: 350px; } }
-    @media only screen and (max-width: 690px) {
+    @media only screen and (max-width: 705px) {
       .link-tiles .tile {
         height: 250px;
         width: 100%; } }
@@ -239,7 +239,7 @@ hr {
       height: 400px; }
       .top-img .top-text {
         font-size: 2rem; } }
-  @media only screen and (max-width: 690px) {
+  @media only screen and (max-width: 705px) {
     .top-img {
       height: 300px; }
       .top-img .top-text {
@@ -293,7 +293,7 @@ hr {
     text-decoration: underline; }
     .display a:hover {
       color: #8c2ecc; }
-  @media only screen and (max-width: 690px) {
+  @media only screen and (max-width: 705px) {
     .display h1 {
       font-size: 1.5em; }
     .display h2 {
@@ -325,7 +325,7 @@ hr {
   @media only screen and (max-width: 915px) {
     .page-title {
       font-size: 3rem; } }
-  @media only screen and (max-width: 690px) {
+  @media only screen and (max-width: 705px) {
     .page-title {
       width: 85%;
       left: 6%;
