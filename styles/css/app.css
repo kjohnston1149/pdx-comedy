@@ -318,16 +318,15 @@ hr {
   font-size: 5rem;
   letter-spacing: 2px;
   text-transform: uppercase;
-  background-color: rgba(83, 27, 121, 0.5);
-  border-radius: 10px; }
+  -webkit-text-stroke: 2px black; }
   @media only screen and (max-width: 915px) {
     .page-title {
-      font-size: 3rem; } }
+      font-size: 4rem;
+      -webkit-text-stroke: 1.5px black; } }
   @media only screen and (max-width: 705px) {
     .page-title {
-      width: 85%;
-      left: 6%;
-      right: 6%; } }
+      width: 98%;
+      font-size: 3rem; } }
 
 button {
   color: #353535;
