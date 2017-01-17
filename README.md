@@ -1,6 +1,6 @@
 # _PDX/Portland Comedy_
 
-#### _A refactoring of the ember-based Portland-Comedy project._
+#### _A refactoring of Kevin Johnston's ember-based Portland-Comedy project._
 
 #### By _**Kevin Johnston**_
 
