@@ -6,7 +6,6 @@ $.ajax({
     url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?singleEvents=true&showDeleted=false&maxResults=20&orderBy=startTime&timeMin=' + moment().format("YYYY-MM-DDTHH:mm:ssZ") + '&key=' + mykey),
     dataType: 'json',
     success: function (response) {
-        console.log(response);
         var events = response.items;
 
         if (events.length > 0) {
