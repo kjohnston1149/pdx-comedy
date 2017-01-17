@@ -82,3 +82,18 @@
     });
 
     }
+
+    var mykey = 'AIzaSyChrQReeiP9GSTjUljqBwTp6A0skhdr2fY'; // typically like Gtg-rtZdsreUr_fLfhgPfgff
+var calendarid = 'jim6kbma2850sds9mcohvbmgbo@group.calendar.google.com'; // will look somewhat like 3ruy234vodf6hf4sdf5sd84f@group.calendar.google.com
+
+$.ajax({
+    type: 'GET',
+    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?key=' + mykey),
+    dataType: 'json',
+    success: function (response) {
+        console.log(response);
+    },
+    error: function (response) {
+        console.log("lol nope!");
+    }
+});
