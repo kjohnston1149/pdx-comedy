@@ -55,6 +55,7 @@
     });
 
     request.execute(function(resp) {
+
       var events = resp.items;
 
       if (events.length > 0) {
@@ -83,12 +84,12 @@
 
     }
 
-    var mykey = 'AIzaSyChrQReeiP9GSTjUljqBwTp6A0skhdr2fY'; // typically like Gtg-rtZdsreUr_fLfhgPfgff
+var mykey = 'AIzaSyChrQReeiP9GSTjUljqBwTp6A0skhdr2fY'; // typically like Gtg-rtZdsreUr_fLfhgPfgff
 var calendarid = 'jim6kbma2850sds9mcohvbmgbo@group.calendar.google.com'; // will look somewhat like 3ruy234vodf6hf4sdf5sd84f@group.calendar.google.com
 
 $.ajax({
     type: 'GET',
-    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?key=' + mykey),
+    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?singleEvents=true&showDeleted=false&maxResults=20&orderBy=startTime&key=' + mykey),
     dataType: 'json',
     success: function (response) {
         console.log(response);
