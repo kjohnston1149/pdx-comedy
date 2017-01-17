@@ -19,8 +19,6 @@ html {
 
 body {
   background: #1c1c1c;
-  flex-direction: column;
-  justify-content: space-between;
   background-image: url("../../public/assets/img/bg.png");
   max-width: 1200px;
   margin-left: auto;
