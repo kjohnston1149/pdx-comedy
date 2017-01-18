@@ -29,7 +29,7 @@ body {
     display: block; }
 
 hr {
-  width: 100vw;
+  width: 100%;
   align-self: center;
   opacity: 0.5; }
 
@@ -277,15 +277,14 @@ hr {
     margin-top: 8%; }
 
 .display {
-  align-self: center;
   line-height: 1.75;
   text-align: left;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-content: center;
-  flex-wrap: wrap;
-  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 90%; }
   .display a {
     text-decoration: underline; }

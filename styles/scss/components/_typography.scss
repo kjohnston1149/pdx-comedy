@@ -18,7 +18,6 @@
   @media only screen and (#{$break-tablet}) {
     font-size: 4rem;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    // -webkit-text-stroke: 1.5px black;
   }
   @media only screen and (#{$break-mobile}) {
     width: 98%;
