@@ -10,7 +10,7 @@
         height: 15rem;
       }
       @media only screen and (#{$break-mobile}) {
-        height: 10rem;
+        height: 12rem;
       }
       display: flex;
       justify-content: flex-start;
@@ -22,7 +22,7 @@
         height: 15rem;
       }
       @media only screen and (#{$break-mobile}) {
-        height: 10rem;
+        height: 12rem;
       }
       display: flex;
       justify-content: flex-start;
@@ -71,17 +71,14 @@
     }
     @media only screen and (#{$break-tablet}) {
       width: 30%;
-      height: 350px;
+      height: 370px;
     }
     @media only screen and (#{$break-mobile}) {
-      height: 250px;
       width: 100%;
     }
     h2 {
       font-size: 2.6rem;
-      // &:hover {
-      //   color: lighten($accent-color, 20%);
-      // }
+
       @media only screen and (#{$break-tablet}) {
         font-size: 2rem;
 
@@ -101,7 +98,7 @@
   @include background-img('../../public/assets/img/nick-p.jpg');
 }
 .top-img {
-  height: 600px;
+  height: 650px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -109,14 +106,14 @@
     font-size: 3rem;
   }
   @media only screen and (#{$break-tablet}) {
-    height: 400px;
+    height: 500px;
     .top-text {
       font-size: 2rem;
     }
   }
 
   @media only screen and (#{$break-mobile}) {
-    height: 300px;
+    height: 400px;
     .top-text {
       font-size: 2rem;
     }
