@@ -18,7 +18,7 @@ html {
   box-sizing: border-box; }
 
 body {
-  background: #1c1c1c;
+  background: #1c1b1b;
   background-image: url("../../public/assets/img/bg.png");
   max-width: 1200px;
   margin-left: auto;
@@ -327,9 +327,10 @@ hr {
       width: 98%;
       font-size: 3rem; } }
 
+.top-text {
+  font-size: 3rem; }
+
 button {
   color: #353535;
   border-radius: 10px;
   box-shadow: none; }
-
-/*# sourceMappingURL=app.css.map */
