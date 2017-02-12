@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -46,6 +52,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/links.html",
+		"oF": 0
+		},
+	"\/open-mics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/open-mics.html",
 		"oF": 0
 		},
 	"\/public\/assets\/img\/andie-m.jpg": {
