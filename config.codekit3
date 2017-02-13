@@ -15,6 +15,12 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/CNAME",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
