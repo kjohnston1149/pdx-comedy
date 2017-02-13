@@ -3,7 +3,7 @@ var calendarid = 'orf66oh318gp812qcbm45buero@group.calendar.google.com'; // will
 
 $.ajax({
     type: 'GET',
-    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?singleEvents=true&showDeleted=false&maxResults=12&orderBy=startTime&timeMin=' + moment().format("YYYY-MM-DDTHH:mm:ssZ") + '&key=' + mykey),
+    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + calendarid+ '/events?singleEvents=true&showDeleted=false&maxResults=20&orderBy=startTime&timeMin=' + moment().format("YYYY-MM-DDTHH:mm:ssZ") + '&key=' + mykey),
     dataType: 'json',
     success: function (response) {
         var events = response.items;
