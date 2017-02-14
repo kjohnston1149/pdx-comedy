@@ -59,6 +59,9 @@ hr {
     @media only screen and (max-width: 705px) {
       .navbar ul {
         width: 97%; } }
+    @media only screen and (max-width: 350px) {
+      .navbar ul {
+        font-size: 13.5px; } }
     .navbar ul li {
       text-transform: uppercase; }
       .navbar ul li a {
