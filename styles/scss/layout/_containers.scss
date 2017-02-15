@@ -1,3 +1,4 @@
+//===Home Page===
 .img-gallery {
   display: flex;
   position: relative;
@@ -97,6 +98,11 @@
 #link-link {
   @include background-img('../../public/assets/img/nick-p.jpg');
 }
+
+
+//===Open Mic, Showcase, Links Pages===
+
+//==Top displays==
 .top-img {
   height: 650px;
   position: relative;
@@ -139,7 +145,7 @@
     margin-top: 8%;
   }
 }
-
+//==Text displays==
 .display {
   // align-self: center;
   line-height: 1.75;
