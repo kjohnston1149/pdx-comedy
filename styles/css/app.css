@@ -302,9 +302,20 @@ hr {
       font-size: 1em; } }
 
 .contact-us {
+  text-align: center; }
+
+.showcase-bookings {
+  text-align: left; }
+
+.row {
+  display: flex; }
+
+.navbar ul li a {
+  border-radius: 10%; }
+
+.contact-us, .showcase-bookings {
   align-self: center;
   line-height: 1.75;
-  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -312,19 +323,13 @@ hr {
   margin-left: auto;
   margin-right: auto;
   max-width: 90%; }
-  .contact-us a {
+  .contact-us a, .showcase-bookings a {
     text-decoration: underline; }
-    .contact-us a:hover {
+    .contact-us a:hover, .showcase-bookings a:hover {
       color: #8c2ecc; }
   @media only screen and (max-width: 705px) {
-    .contact-us p, .contact-us h4 {
+    .contact-us p, .showcase-bookings p, .contact-us h4, .showcase-bookings h4 {
       font-size: 1em; } }
-
-.row {
-  display: flex; }
-
-.navbar ul li a {
-  border-radius: 10%; }
 
 .page-title {
   font-family: 'Ubuntu', sans-serif;
