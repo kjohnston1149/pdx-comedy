@@ -280,6 +280,7 @@ hr {
     margin-top: 8%; }
 
 .display {
+  margin-top: 15px;
   line-height: 1.75;
   text-align: left;
   display: flex;
@@ -305,6 +306,7 @@ hr {
   text-align: center; }
 
 .showcase-bookings {
+  margin-top: 15px;
   text-align: left; }
 
 .row {

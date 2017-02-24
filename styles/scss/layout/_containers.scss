@@ -148,6 +148,7 @@
 //==Text displays==
 .display {
   // align-self: center;
+  margin-top: 15px;
   line-height: 1.75;
   text-align: left;
   display: flex;
@@ -183,6 +184,7 @@
 }
 
 .showcase-bookings {
+  margin-top: 15px;
   @extend %info-div;
   text-align: left;
 }
