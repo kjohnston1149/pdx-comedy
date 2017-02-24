@@ -33,6 +33,7 @@ $.ajax({
     },
     error: function (response) {
         console.log("lol nope!");
+        $('.display').append('<h2>An error has occured.  Please try again later</h2>');
     }
 });
 
