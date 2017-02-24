@@ -14,7 +14,7 @@ $.ajax({
             var name = event.summary;
             $('.display').append('<h1>' + name + '</h1>');
             var when = event.start.dateTime;
-            $('.display').append('<h2>' + moment(when).format("dddd, MMMM Do YYYY, h:mm a") + '</h2>');
+            $('.display').append('<h2>' + moment(when).tz("America/Los_Angeles").format("dddd, MMMM Do YYYY, h:mm a") + '</h2>');
             var where = event.location;
             if (where == null) {
               $('.display').append('')
@@ -35,3 +35,5 @@ $.ajax({
         console.log("lol nope!");
     }
 });
+
+
