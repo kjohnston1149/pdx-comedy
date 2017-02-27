@@ -41,7 +41,7 @@
 		},
 	"\/js\/open-mics.js": {
 		"ft": 64,
-		"mi": 0,
+		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/open-mics.js",
 		"oF": 0,
@@ -50,7 +50,7 @@
 		},
 	"\/js\/showcases.js": {
 		"ft": 64,
-		"mi": 0,
+		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/showcases.js",
 		"oF": 0,
@@ -1048,7 +1048,7 @@
 		"oF": 0
 		},
 	"\/styles\/scss\/app.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
