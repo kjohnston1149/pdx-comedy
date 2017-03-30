@@ -57,7 +57,6 @@
   justify-content: space-around;
   @media only screen and (#{$break-mobile}) {
     display: block;
-
   }
   .tile {
     display: flex;
@@ -188,4 +187,41 @@
   margin-top: 15px;
   @extend %info-div;
   text-align: left;
+}
+
+// Links Main Page
+.links-main {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  @media only screen and (#{$break-mobile}) {
+    display: block;
+  }
+}
+.menu-tile {
+  margin: 0;
+  height: 50vh;
+  width: 50%;
+  background-color: $accent-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @media only screen and (#{$break-mobile}) {
+    width: 100vw;
+  }
+}
+
+#contact {
+
+}
+
+#submitMic {
+
+}
+#media {
+
+}
+#resources {
+
 }
