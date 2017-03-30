@@ -7,7 +7,7 @@
 		"uuidString": "8659F85B-40EE-47FB-AC2A-9E856B310D23"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/CNAME": {
 		"ft": 8192,
@@ -63,6 +63,12 @@
 		"oAP": "\/links.html",
 		"oF": 0
 		},
+	"\/media.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/media.html",
+		"oF": 0
+		},
 	"\/open-mics.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -75,7 +81,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/andie-m.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/avalon.jpg": {
 		"ft": 16384,
@@ -83,7 +90,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/avalon.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/barbra-h.jpg": {
 		"ft": 16384,
@@ -91,7 +99,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/barbra-h.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/ben-h.jpg": {
 		"ft": 16384,
@@ -99,15 +108,18 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/ben-h.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/dinah-f.jpg": {
 		"ft": 16384,
@@ -115,7 +127,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/dinah-f.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/dma.jpg": {
 		"ft": 16384,
@@ -123,7 +136,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/dma.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/jake-s.jpg": {
 		"ft": 16384,
@@ -131,7 +145,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/jake-s.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/jon-w.jpg": {
 		"ft": 16384,
@@ -139,15 +154,18 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/jon-w.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/media-mic.jpg": {
 		"ft": 16384,
@@ -155,7 +173,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/media-mic.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/nariko.jpg": {
 		"ft": 16384,
@@ -163,7 +182,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nariko.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/nick-p.jpg": {
 		"ft": 16384,
@@ -171,7 +191,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nick-p.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/rafferty.jpg": {
 		"ft": 16384,
@@ -179,7 +200,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/rafferty.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/rochelle-c.jpg": {
 		"ft": 16384,
@@ -187,7 +209,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/rochelle-c.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/tony-c.jpg": {
 		"ft": 16384,
@@ -195,7 +218,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/tony-c.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/andie-m.jpg": {
 		"ft": 16384,
@@ -203,7 +227,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/andie-m.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/avalon.jpg": {
 		"ft": 16384,
@@ -211,7 +236,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/avalon.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/barbra-h.jpg": {
 		"ft": 16384,
@@ -219,7 +245,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/barbra-h.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/ben-h.jpg": {
 		"ft": 16384,
@@ -227,15 +254,18 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/ben-h.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/dinah-f.jpg": {
 		"ft": 16384,
@@ -243,7 +273,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/dinah-f.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/dma.jpg": {
 		"ft": 16384,
@@ -251,7 +282,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/dma.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/jake-s.jpg": {
 		"ft": 16384,
@@ -259,7 +291,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/jake-s.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/jon-w.jpg": {
 		"ft": 16384,
@@ -267,15 +300,18 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/jon-w.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/nariko.jpg": {
 		"ft": 16384,
@@ -283,7 +319,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nariko.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/nick-p.jpg": {
 		"ft": 16384,
@@ -291,7 +328,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nick-p.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/rafferty.jpg": {
 		"ft": 16384,
@@ -299,7 +337,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/rafferty.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/rochelle-c.jpg": {
 		"ft": 16384,
@@ -307,7 +346,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/rochelle-c.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img\/tony-c.jpg": {
 		"ft": 16384,
@@ -315,7 +355,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/tony-c.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -334,6 +375,12 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/resources.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources.html",
+		"oF": 0
 		},
 	"\/showcases.html": {
 		"ft": 8192,
@@ -3223,6 +3270,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -3702,6 +3753,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -4302,7 +4357,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -4395,7 +4451,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
