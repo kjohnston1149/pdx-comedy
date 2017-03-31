@@ -191,6 +191,7 @@
 
 // Links Main Page
 .links-main {
+  margin-top: 10px;
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
@@ -203,25 +204,34 @@
   margin: 0;
   height: 50vh;
   width: 50%;
-  background-color: $accent-color;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  line-height: 2;
+  a {
+    text-align: center;
+    transition: all 250ms ease-in-out;
+    &:hover {
+      transform: scale(1.25);
+    }
+  }
+
   @media only screen and (#{$break-mobile}) {
     width: 100vw;
   }
 }
 
 #contact {
-
+background-color: $accent-color;
 }
 
 #submitMic {
-
+background-color: lighten($accent-color, 5%);
 }
 #media {
-
+background-color: lighten($accent-color, 10%);
 }
 #resources {
-
+background-color: darken($accent-color, 5%);
 }

@@ -312,6 +312,7 @@ hr {
   text-align: left; }
 
 .links-main {
+  margin-top: 10px;
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
@@ -324,13 +325,31 @@ hr {
   margin: 0;
   height: 50vh;
   width: 50%;
-  background-color: #531B79;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  line-height: 2; }
+  .menu-tile a {
+    text-align: center;
+    transition: all 250ms ease-in-out; }
+    .menu-tile a:hover {
+      transform: scale(1.25); }
   @media only screen and (max-width: 705px) {
     .menu-tile {
       width: 100vw; } }
+
+#contact {
+  background-color: #531B79; }
+
+#submitMic {
+  background-color: #61208e; }
+
+#media {
+  background-color: #7024a3; }
+
+#resources {
+  background-color: #451664; }
 
 .row {
   display: flex; }
