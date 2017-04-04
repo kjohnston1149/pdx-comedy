@@ -193,17 +193,17 @@
 .links-main {
   margin-top: 10px;
   display: flex;
-  justify-content: flex-end;
+  justify-content:space-around;
   flex-wrap: wrap;
-  align-content: flex-end;
+  align-content: center;
   @media only screen and (#{$break-mobile}) {
     display: block;
   }
 }
 .menu-tile {
-  margin: 0;
+  margin: 10px;
   height: 50vh;
-  width: 50%;
+  width: 45%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -214,10 +214,16 @@
     transition: all 250ms ease-in-out;
     &:hover {
       transform: scale(1.25);
+      @media only screen and (#{$break-tablet}) {
+        transform: scale(1.1);
+      }
     }
   }
-
+  // @media only screen and (#{$break-tablet}) {
+  //   width: 100vw;
+  // }
   @media only screen and (#{$break-mobile}) {
+    margin: 0;
     width: 100vw;
   }
 }
