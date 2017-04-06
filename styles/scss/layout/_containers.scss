@@ -237,9 +237,14 @@
 #submitMic {
 @include background-img("../../public/assets/img/melody.jpg");
 }
+
 #media {
 @include background-img("../../public/assets/img/media-mic.jpg");
+.top-text {
+  @extend %links-hero-text;
 }
+}
+
 #resources {
 @include background-img("../../public/assets/img/nicky-moon.jpg");
 .top-text {
