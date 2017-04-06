@@ -209,15 +209,15 @@
   justify-content: center;
   align-items: center;
   line-height: 2;
+  transition: all 250ms ease-in-out;
+  &:hover {
+    transform: scale(1.1);
+    @media only screen and (#{$break-tablet}) {
+      transform: scale(1.05);
+    }
+  }
   a {
     text-align: center;
-    transition: all 250ms ease-in-out;
-    &:hover {
-      transform: scale(1.25);
-      @media only screen and (#{$break-tablet}) {
-        transform: scale(1.1);
-      }
-    }
   }
   // @media only screen and (#{$break-tablet}) {
   //   width: 100vw;
@@ -225,19 +225,21 @@
   @media only screen and (#{$break-mobile}) {
     margin: 0;
     width: 100vw;
+    height: 50vh;
+    font-size: 0.95em;
   }
 }
 
 #contact {
-background-color: $accent-color;
+@include background-img("../../public/assets/img/alex-falcone.jpg");
 }
 
 #submitMic {
-background-color: lighten($accent-color, 5%);
+@include background-img("../../public/assets/img/melody.jpg");
 }
 #media {
-background-color: lighten($accent-color, 10%);
+@include background-img("../../public/assets/img/media-mic.jpg");
 }
 #resources {
-background-color: darken($accent-color, 5%);
+@include background-img("../../public/assets/img/nicky-moon.jpg");
 }

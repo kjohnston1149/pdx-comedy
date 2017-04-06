@@ -75,6 +75,15 @@
 		"oAP": "\/open-mics.html",
 		"oF": 0
 		},
+	"\/public\/assets\/img copy\/alex-falcone.jpg": {
+		"ft": 16384,
+		"iS": 132083,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/alex-falcone.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img copy\/andie-m.jpg": {
 		"ft": 16384,
 		"iS": 27709,
@@ -176,6 +185,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img copy\/melody.jpg": {
+		"ft": 16384,
+		"iS": 881655,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/melody.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img copy\/nariko.jpg": {
 		"ft": 16384,
 		"iS": 137761,
@@ -190,6 +208,15 @@
 		"iS": 114625,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nick-p.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img copy\/nicky-moon.jpg": {
+		"ft": 16384,
+		"iS": 212648,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/nicky-moon.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -217,6 +244,15 @@
 		"iS": 80567,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/tony-c.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/alex-falcone.jpg": {
+		"ft": 16384,
+		"iS": 132083,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/alex-falcone.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -313,6 +349,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img\/media-mic.jpg": {
+		"ft": 16384,
+		"iS": 878048,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/media-mic.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/melody.jpg": {
+		"ft": 16384,
+		"iS": 881655,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/melody.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img\/nariko.jpg": {
 		"ft": 16384,
 		"iS": 137761,
@@ -327,6 +381,15 @@
 		"iS": 114625,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nick-p.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/nicky-moon.jpg": {
+		"ft": 16384,
+		"iS": 212648,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/nicky-moon.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100

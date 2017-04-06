@@ -329,31 +329,57 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  line-height: 2; }
+  line-height: 2;
+  transition: all 250ms ease-in-out; }
+  .menu-tile:hover {
+    transform: scale(1.1); }
+    @media only screen and (max-width: 915px) {
+      .menu-tile:hover {
+        transform: scale(1.05); } }
   .menu-tile a {
-    text-align: center;
-    transition: all 250ms ease-in-out; }
-    .menu-tile a:hover {
-      transform: scale(1.25); }
-      @media only screen and (max-width: 915px) {
-        .menu-tile a:hover {
-          transform: scale(1.1); } }
+    text-align: center; }
   @media only screen and (max-width: 705px) {
     .menu-tile {
       margin: 0;
-      width: 100vw; } }
+      width: 100vw;
+      height: 50vh;
+      font-size: 0.95em; } }
 
 #contact {
-  background-color: #531B79; }
+  content: "";
+  background-image: url("../../public/assets/img/alex-falcone.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
 
 #submitMic {
-  background-color: #61208e; }
+  content: "";
+  background-image: url("../../public/assets/img/melody.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
 
 #media {
-  background-color: #7024a3; }
+  content: "";
+  background-image: url("../../public/assets/img/media-mic.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
 
 #resources {
-  background-color: #451664; }
+  content: "";
+  background-image: url("../../public/assets/img/nicky-moon.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
 
 .row {
   display: flex; }
