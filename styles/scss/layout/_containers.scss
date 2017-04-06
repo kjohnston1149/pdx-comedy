@@ -143,6 +143,14 @@
   @include background-img("../../public/assets/img/dma.jpg");
   .top-text {
     margin-top: 8%;
+    font-size: 5rem;
+    @media only screen and (#{$break-tablet}) {
+      font-size: 3rem;
+    }
+    @media only screen and (#{$break-mobile}) {
+      margin-top: 18%;
+      font-size: 2rem;
+    }
   }
 }
 //==Text displays==
@@ -201,9 +209,9 @@
   }
 }
 .menu-tile {
-  margin: 10px;
+  margin: 10px 10px 15px 10px;
   height: 50vh;
-  width: 45%;
+  width: 40%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -242,4 +250,15 @@
 }
 #resources {
 @include background-img("../../public/assets/img/nicky-moon.jpg");
+.top-text {
+  margin-top: 8%;
+  font-size: 5rem;
+  @media only screen and (#{$break-tablet}) {
+    font-size: 3rem;
+  }
+  @media only screen and (#{$break-mobile}) {
+    margin-top: 18%;
+    font-size: 2rem;
+  }
+}
 }
