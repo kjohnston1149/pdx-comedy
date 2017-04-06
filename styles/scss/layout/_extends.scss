@@ -25,3 +25,15 @@
     }
 }
 }
+
+%links-hero-text {
+  margin-top: 8%;
+  font-size: 5rem;
+  @media only screen and (#{$break-tablet}) {
+    font-size: 3rem;
+  }
+  @media only screen and (#{$break-mobile}) {
+    margin-top: 18%;
+    font-size: 2rem;
+  }
+}
