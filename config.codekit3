@@ -166,6 +166,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img copy\/kirsten-k.jpg": {
+		"ft": 16384,
+		"iS": 102923,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/kirsten-k.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img copy\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
@@ -335,6 +344,15 @@
 		"iS": 186564,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/jon-w.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/kirsten-k.jpg": {
+		"ft": 16384,
+		"iS": 102923,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/kirsten-k.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
