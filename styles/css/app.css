@@ -34,6 +34,9 @@ hr {
   align-self: center;
   opacity: 0.5; }
 
+ul {
+  line-height: 2.5; }
+
 .navbar {
   background-color: #353535;
   display: flex;
@@ -278,8 +281,6 @@ hr {
   background-repeat: no-repeat;
   position: relative;
   overflow: hidden; }
-  #links-img .top-text {
-    margin-top: 8%; }
 
 .display {
   margin-top: 15px;
@@ -311,6 +312,76 @@ hr {
   margin-top: 15px;
   text-align: left; }
 
+.links-main {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content: center; }
+  @media only screen and (max-width: 705px) {
+    .links-main {
+      display: block; } }
+
+.menu-tile {
+  margin: 10px 10px 15px 10px;
+  height: 50vh;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+  transition: all 250ms ease-in-out; }
+  .menu-tile:hover {
+    transform: scale(1.1); }
+    @media only screen and (max-width: 915px) {
+      .menu-tile:hover {
+        transform: scale(1.05); } }
+  .menu-tile a {
+    text-align: center; }
+  @media only screen and (max-width: 705px) {
+    .menu-tile {
+      margin: 0;
+      width: 100vw;
+      height: 50vh;
+      font-size: 0.95em; } }
+
+#contact {
+  content: "";
+  background-image: url("../../public/assets/img/alex-falcone.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+#submitMic {
+  content: "";
+  background-image: url("../../public/assets/img/kirsten-k.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+#media {
+  content: "";
+  background-image: url("../../public/assets/img/media-mic.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
+#resources {
+  content: "";
+  background-image: url("../../public/assets/img/nicky-moon.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden; }
+
 .row {
   display: flex; }
 
@@ -334,6 +405,17 @@ hr {
   @media only screen and (max-width: 705px) {
     .contact-us p, .showcase-bookings p, .contact-us h4, .showcase-bookings h4 {
       font-size: 1em; } }
+
+#links-img .top-text, #media .top-text, #resources .top-text {
+  margin-top: 8%;
+  font-size: 5rem; }
+  @media only screen and (max-width: 915px) {
+    #links-img .top-text, #media .top-text, #resources .top-text {
+      font-size: 3rem; } }
+  @media only screen and (max-width: 705px) {
+    #links-img .top-text, #media .top-text, #resources .top-text {
+      margin-top: 18%;
+      font-size: 2rem; } }
 
 .page-title {
   font-family: 'Ubuntu', sans-serif;

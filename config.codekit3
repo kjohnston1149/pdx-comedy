@@ -63,11 +63,26 @@
 		"oAP": "\/links.html",
 		"oF": 0
 		},
+	"\/media.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/media.html",
+		"oF": 0
+		},
 	"\/open-mics.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/open-mics.html",
 		"oF": 0
+		},
+	"\/public\/assets\/img copy\/alex-falcone.jpg": {
+		"ft": 16384,
+		"iS": 132083,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/alex-falcone.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/img copy\/andie-m.jpg": {
 		"ft": 16384,
@@ -151,6 +166,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img copy\/kirsten-k.jpg": {
+		"ft": 16384,
+		"iS": 102923,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/kirsten-k.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img copy\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
@@ -170,6 +194,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img copy\/melody.jpg": {
+		"ft": 16384,
+		"iS": 881655,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/melody.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img copy\/nariko.jpg": {
 		"ft": 16384,
 		"iS": 137761,
@@ -184,6 +217,15 @@
 		"iS": 114625,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nick-p.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img copy\/nicky-moon.jpg": {
+		"ft": 16384,
+		"iS": 212648,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img copy\/nicky-moon.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -211,6 +253,15 @@
 		"iS": 80567,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/tony-c.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/alex-falcone.jpg": {
+		"ft": 16384,
+		"iS": 132083,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/alex-falcone.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -297,12 +348,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/assets\/img\/kirsten-k.jpg": {
+		"ft": 16384,
+		"iS": 102923,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/kirsten-k.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/assets\/img\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/logo.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/media-mic.jpg": {
+		"ft": 16384,
+		"iS": 878048,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/media-mic.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/melody.jpg": {
+		"ft": 16384,
+		"iS": 881655,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/melody.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -321,6 +399,15 @@
 		"iS": 114625,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nick-p.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/nicky-moon.jpg": {
+		"ft": 16384,
+		"iS": 212648,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/nicky-moon.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -369,6 +456,12 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/resources.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources.html",
+		"oF": 0
 		},
 	"\/showcases.html": {
 		"ft": 8192,
