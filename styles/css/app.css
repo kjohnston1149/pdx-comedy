@@ -34,6 +34,9 @@ hr {
   align-self: center;
   opacity: 0.5; }
 
+ul {
+  line-height: 2.5; }
+
 .navbar {
   background-color: #353535;
   display: flex;
@@ -354,7 +357,7 @@ hr {
 
 #submitMic {
   content: "";
-  background-image: url("../../public/assets/img/melody.jpg");
+  background-image: url("../../public/assets/img/kirsten-k.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
