@@ -1,8 +1,8 @@
 # _PDX/Portland Comedy_
 
-#### _A refactoring of Kevin Johnston's ember-based Portland-Comedy project._
+#### _A refactoring of <a href="https://kjohnston1149.github.io/">Kevin Johnston</a>'s ember-based Portland-Comedy project._
 
-#### By _**Kevin Johnston**_
+#### By _**<a href="https://kjohnston1149.github.io/">Kevin Johnston</a>**_
 
 ## Description
 
@@ -37,4 +37,4 @@ _This application uses HTML, CSS, JavaScript, and JQuery._
 
 This website is licensed under the MIT license
 
-Copyright (c) 2017 **_Kevin Johnston_**
+Copyright (c) 2017 **_<a href="https://kjohnston1149.github.io/">Kevin Johnston</a>_**
