@@ -7,7 +7,7 @@
 		"uuidString": "8659F85B-40EE-47FB-AC2A-9E856B310D23"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/CNAME": {
 		"ft": 8192,
@@ -81,6 +81,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/alex-falcone.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -90,6 +91,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/andie-m.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -99,6 +101,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/avalon.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -108,6 +111,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/barbra-h.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -117,17 +121,19 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/ben-h.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/public\/assets\/img copy\/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/bg.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img copy\/dinah-f.jpg": {
@@ -136,6 +142,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/dinah-f.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -145,6 +152,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/dma.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -154,6 +162,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/jake-s.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -163,6 +172,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/jon-w.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -172,17 +182,19 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/kirsten-k.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/public\/assets\/img copy\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img copy\/media-mic.jpg": {
@@ -191,6 +203,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/media-mic.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -200,6 +213,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/melody.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -209,6 +223,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nariko.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -218,6 +233,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nick-p.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -227,6 +243,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/nicky-moon.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -236,6 +253,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/rafferty.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -245,6 +263,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/rochelle-c.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -254,6 +273,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img copy\/tony-c.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -263,6 +283,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/alex-falcone.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -272,6 +293,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/andie-m.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -281,6 +303,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/avalon.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -290,6 +313,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/barbra-h.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -299,17 +323,19 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/ben-h.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/public\/assets\/img\/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/bg.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/dinah-f.jpg": {
@@ -318,6 +344,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/dinah-f.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -327,6 +354,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/dma.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -336,6 +364,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/jake-s.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -345,6 +374,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/jon-w.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -354,17 +384,19 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/kirsten-k.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/public\/assets\/img\/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/media-mic.jpg": {
@@ -373,6 +405,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/media-mic.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -382,6 +415,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/melody.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -391,6 +425,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nariko.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -400,6 +435,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nick-p.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -409,6 +445,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/nicky-moon.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -418,6 +455,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/rafferty.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -427,6 +465,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/rochelle-c.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -436,6 +475,7 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/tony-c.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3639,6 +3679,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -4463,14 +4507,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -4533,7 +4569,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
