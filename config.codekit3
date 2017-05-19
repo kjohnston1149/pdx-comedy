@@ -15,6 +15,12 @@
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/js\/moment-timezone-2010-2020.min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -50,6 +56,24 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/links.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/links.html",
+		"oF": 0
+		},
+	"\/media.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/media.html",
+		"oF": 0
+		},
+	"\/open-mics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/open-mics.html",
+		"oF": 0
 		},
 	"\/public\/assets\/img copy\/alex-falcone.jpg": {
 		"ft": 16384,
@@ -454,6 +478,36 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources.html",
+		"oF": 0
+		},
+	"\/showcases.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/showcases.html",
+		"oF": 0
 		},
 	"\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_buttons.scssc": {
 		"ft": 8192,
