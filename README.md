@@ -1,8 +1,8 @@
 # _PDX/Portland Comedy_
 
-#### _A refactoring of <a href="https://kjohnston1149.github.io/">Kevin Johnston</a>'s ember-based Portland-Comedy project._
+#### _A refactoring of Kevin Johnston's ember-based Portland-Comedy project._
 
-#### By _**<a href="https://kjohnston1149.github.io/">Kevin Johnston</a>**_
+#### By _**Kevin Johnston**_
 
 ## Description
 
@@ -18,6 +18,7 @@ _This app is a basic html refactoring of the Ember.js project for Portland Comed
 3. Open index.html in the browser of your choice (we suggest Chrome)
 4. Alternatively, if using Atom, run "$ apm install atom-live-server" in the command line and launch a live local server by using the short cut "ctrl-shift-3".  For more information, visit https://atom.io/packages/atom-live-server.
 5. To edit the SCSS files, run the command "$ sass --watch scss:css" in the command line.
+* Alternatively, if you have Codekit installed on your device, simply drag and drop the project file into Codekit- the settings should auto-compile to the proper place, and you can launch a local live server through the program.
 
 
 ## Known Bugs
@@ -37,4 +38,4 @@ _This application uses HTML, CSS, JavaScript, and JQuery._
 
 This website is licensed under the MIT license
 
-Copyright (c) 2017 **_<a href="https://kjohnston1149.github.io/">Kevin Johnston</a>_**
+Copyright (c) 2017 **_Kevin Johnston_**
