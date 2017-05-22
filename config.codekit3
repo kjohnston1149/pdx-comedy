@@ -479,6 +479,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/resources.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1180,16 +1198,6 @@
 		"oA": 1,
 		"oAP": "\/styles\/.sass-cache\/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2\/_neat.scssc",
 		"oF": 0
-		},
-	"\/styles\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/styles\/css\/app.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/styles\/css\/app.css.map": {
 		"ft": 8192,
@@ -2376,19 +2384,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/styles\/scss\/layout\/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/scss\/layout\/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
