@@ -284,7 +284,7 @@
 		"oAP": "\/public\/assets\/img\/alex-falcone.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/andie-m.jpg": {
@@ -294,7 +294,7 @@
 		"oAP": "\/public\/assets\/img\/andie-m.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/avalon.jpg": {
@@ -304,7 +304,7 @@
 		"oAP": "\/public\/assets\/img\/avalon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/barbra-h.jpg": {
@@ -314,7 +314,7 @@
 		"oAP": "\/public\/assets\/img\/barbra-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/ben-h.jpg": {
@@ -324,7 +324,7 @@
 		"oAP": "\/public\/assets\/img\/ben-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/bg.png": {
@@ -333,8 +333,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/bg.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -345,7 +345,7 @@
 		"oAP": "\/public\/assets\/img\/dinah-f.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/dma.jpg": {
@@ -355,7 +355,7 @@
 		"oAP": "\/public\/assets\/img\/dma.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/jake-s.jpg": {
@@ -365,7 +365,7 @@
 		"oAP": "\/public\/assets\/img\/jake-s.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/jon-w.jpg": {
@@ -375,7 +375,7 @@
 		"oAP": "\/public\/assets\/img\/jon-w.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/kirsten-k.jpg": {
@@ -385,7 +385,7 @@
 		"oAP": "\/public\/assets\/img\/kirsten-k.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/logo.png": {
@@ -394,8 +394,8 @@
 		"oA": 0,
 		"oAP": "\/public\/assets\/img\/logo.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -406,7 +406,7 @@
 		"oAP": "\/public\/assets\/img\/media-mic.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/melody.jpg": {
@@ -416,7 +416,7 @@
 		"oAP": "\/public\/assets\/img\/melody.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/nariko.jpg": {
@@ -426,7 +426,7 @@
 		"oAP": "\/public\/assets\/img\/nariko.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/nick-p.jpg": {
@@ -436,7 +436,7 @@
 		"oAP": "\/public\/assets\/img\/nick-p.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/nicky-moon.jpg": {
@@ -446,7 +446,7 @@
 		"oAP": "\/public\/assets\/img\/nicky-moon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/rafferty.jpg": {
@@ -456,7 +456,7 @@
 		"oAP": "\/public\/assets\/img\/rafferty.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/rochelle-c.jpg": {
@@ -466,7 +466,7 @@
 		"oAP": "\/public\/assets\/img\/rochelle-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/assets\/img\/tony-c.jpg": {
@@ -476,7 +476,7 @@
 		"oAP": "\/public\/assets\/img\/tony-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/README.md": {
