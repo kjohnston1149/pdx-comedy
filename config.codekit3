@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,488 +7,533 @@
 		"uuidString": "8659F85B-40EE-47FB-AC2A-9E856B310D23"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "28905",
 "files": {
-	"\/CNAME": {
+	"/CNAME": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/CNAME",
+		"oAP": "/CNAME",
 		"oF": 0
 		},
-	"\/index.html": {
+	"/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/moment-timezone-2010-2020.min.js": {
+	"/js/moment-timezone-2010-2020.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/moment-timezone-2010-2020.min.js",
+		"oAP": "/js/moment-timezone-2010-2020.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/moment.min.js": {
+	"/js/moment.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/moment.min.js",
+		"oAP": "/js/moment.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/open-mics.js": {
+	"/js/open-mics.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/open-mics.js",
+		"oAP": "/js/open-mics.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/showcases.js": {
+	"/js/showcases.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/showcases.js",
+		"oAP": "/js/showcases.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/links.html": {
+	"/links.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/links.html",
+		"oAP": "/links.html",
 		"oF": 0
 		},
-	"\/media.html": {
+	"/media.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/media.html",
+		"oAP": "/media.html",
 		"oF": 0
 		},
-	"\/open-mics.html": {
+	"/open-mics.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/open-mics.html",
+		"oAP": "/open-mics.html",
 		"oF": 0
 		},
-	"\/public\/assets\/img copy\/alex-falcone.jpg": {
+	"/public/assets/img copy/alex-falcone.jpg": {
 		"ft": 16384,
 		"iS": 132083,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/alex-falcone.jpg",
+		"oAP": "/public/assets/img copy/alex-falcone.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/andie-m.jpg": {
+	"/public/assets/img copy/andie-m.jpg": {
 		"ft": 16384,
 		"iS": 27709,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/andie-m.jpg",
+		"oAP": "/public/assets/img copy/andie-m.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/avalon.jpg": {
+	"/public/assets/img copy/avalon.jpg": {
 		"ft": 16384,
 		"iS": 480709,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/avalon.jpg",
+		"oAP": "/public/assets/img copy/avalon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/barbra-h.jpg": {
+	"/public/assets/img copy/barbra-h.jpg": {
 		"ft": 16384,
 		"iS": 184874,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/barbra-h.jpg",
+		"oAP": "/public/assets/img copy/barbra-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/ben-h.jpg": {
+	"/public/assets/img copy/ben-h.jpg": {
 		"ft": 16384,
 		"iS": 93656,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/ben-h.jpg",
+		"oAP": "/public/assets/img copy/ben-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/bg.png": {
+	"/public/assets/img copy/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/bg.png",
+		"oAP": "/public/assets/img copy/bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/dinah-f.jpg": {
+	"/public/assets/img copy/dinah-f.jpg": {
 		"ft": 16384,
 		"iS": 49182,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/dinah-f.jpg",
+		"oAP": "/public/assets/img copy/dinah-f.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/dma.jpg": {
+	"/public/assets/img copy/dma.jpg": {
 		"ft": 16384,
 		"iS": 66424,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/dma.jpg",
+		"oAP": "/public/assets/img copy/dma.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/jake-s.jpg": {
+	"/public/assets/img copy/jake-s.jpg": {
 		"ft": 16384,
 		"iS": 406966,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/jake-s.jpg",
+		"oAP": "/public/assets/img copy/jake-s.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/jon-w.jpg": {
+	"/public/assets/img copy/jon-w.jpg": {
 		"ft": 16384,
 		"iS": 186564,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/jon-w.jpg",
+		"oAP": "/public/assets/img copy/jon-w.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/kirsten-k.jpg": {
+	"/public/assets/img copy/kirsten-k.jpg": {
 		"ft": 16384,
 		"iS": 102923,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/kirsten-k.jpg",
+		"oAP": "/public/assets/img copy/kirsten-k.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/logo.png": {
+	"/public/assets/img copy/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/logo.png",
+		"oAP": "/public/assets/img copy/logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/media-mic.jpg": {
+	"/public/assets/img copy/media-mic.jpg": {
 		"ft": 16384,
 		"iS": 878048,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/media-mic.jpg",
+		"oAP": "/public/assets/img copy/media-mic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/melody.jpg": {
+	"/public/assets/img copy/melody.jpg": {
 		"ft": 16384,
 		"iS": 881655,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/melody.jpg",
+		"oAP": "/public/assets/img copy/melody.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/nariko.jpg": {
+	"/public/assets/img copy/nariko.jpg": {
 		"ft": 16384,
 		"iS": 137761,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/nariko.jpg",
+		"oAP": "/public/assets/img copy/nariko.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/nick-p.jpg": {
+	"/public/assets/img copy/nick-p.jpg": {
 		"ft": 16384,
 		"iS": 114625,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/nick-p.jpg",
+		"oAP": "/public/assets/img copy/nick-p.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/nicky-moon.jpg": {
+	"/public/assets/img copy/nicky-moon.jpg": {
 		"ft": 16384,
 		"iS": 212648,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/nicky-moon.jpg",
+		"oAP": "/public/assets/img copy/nicky-moon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/rafferty.jpg": {
+	"/public/assets/img copy/rafferty.jpg": {
 		"ft": 16384,
 		"iS": 310189,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/rafferty.jpg",
+		"oAP": "/public/assets/img copy/rafferty.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/rochelle-c.jpg": {
+	"/public/assets/img copy/rochelle-c.jpg": {
 		"ft": 16384,
 		"iS": 146685,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/rochelle-c.jpg",
+		"oAP": "/public/assets/img copy/rochelle-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img copy\/tony-c.jpg": {
+	"/public/assets/img copy/tony-c.jpg": {
 		"ft": 16384,
 		"iS": 80567,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img copy\/tony-c.jpg",
+		"oAP": "/public/assets/img copy/tony-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/assets\/img\/alex-falcone.jpg": {
+	"/public/assets/img/alex-falcone.jpg": {
 		"ft": 16384,
 		"iS": 132083,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/alex-falcone.jpg",
+		"oAP": "/public/assets/img/alex-falcone.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/andie-m.jpg": {
+	"/public/assets/img/andie-m.jpg": {
 		"ft": 16384,
 		"iS": 27709,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/andie-m.jpg",
+		"oAP": "/public/assets/img/andie-m.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/avalon.jpg": {
+	"/public/assets/img/avalon.jpg": {
 		"ft": 16384,
 		"iS": 480709,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/avalon.jpg",
+		"oAP": "/public/assets/img/avalon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/barbra-h.jpg": {
+	"/public/assets/img/barbra-h.jpg": {
 		"ft": 16384,
 		"iS": 184874,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/barbra-h.jpg",
+		"oAP": "/public/assets/img/barbra-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/ben-h.jpg": {
+	"/public/assets/img/ben-h.jpg": {
 		"ft": 16384,
 		"iS": 93656,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/ben-h.jpg",
+		"oAP": "/public/assets/img/ben-h.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/bg.png": {
+	"/public/assets/img/bg.png": {
 		"ft": 32768,
 		"iS": 146353,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/bg.png",
+		"oAP": "/public/assets/img/bg.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/dinah-f.jpg": {
+	"/public/assets/img/dinah-f.jpg": {
 		"ft": 16384,
 		"iS": 49182,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/dinah-f.jpg",
+		"oAP": "/public/assets/img/dinah-f.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/dma.jpg": {
+	"/public/assets/img/dma.jpg": {
 		"ft": 16384,
 		"iS": 66424,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/dma.jpg",
+		"oAP": "/public/assets/img/dma.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/jake-s.jpg": {
+	"/public/assets/img/jake-s.jpg": {
 		"ft": 16384,
 		"iS": 406966,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/jake-s.jpg",
+		"oAP": "/public/assets/img/jake-s.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/jon-w.jpg": {
+	"/public/assets/img/jon-w.jpg": {
 		"ft": 16384,
 		"iS": 186564,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/jon-w.jpg",
+		"oAP": "/public/assets/img/jon-w.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/kirsten-k.jpg": {
+	"/public/assets/img/kirsten-k.jpg": {
 		"ft": 16384,
 		"iS": 102923,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/kirsten-k.jpg",
+		"oAP": "/public/assets/img/kirsten-k.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/logo.png": {
+	"/public/assets/img/logo.png": {
 		"ft": 32768,
 		"iS": 93630,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/logo.png",
+		"oAP": "/public/assets/img/logo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/media-mic.jpg": {
+	"/public/assets/img/media-mic.jpg": {
 		"ft": 16384,
 		"iS": 878048,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/media-mic.jpg",
+		"oAP": "/public/assets/img/media-mic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/melody.jpg": {
+	"/public/assets/img/melody.jpg": {
 		"ft": 16384,
 		"iS": 881655,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/melody.jpg",
+		"oAP": "/public/assets/img/melody.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/nariko.jpg": {
+	"/public/assets/img/nariko.jpg": {
 		"ft": 16384,
 		"iS": 137761,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/nariko.jpg",
+		"oAP": "/public/assets/img/nariko.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/nick-p.jpg": {
+	"/public/assets/img/nick-p.jpg": {
 		"ft": 16384,
 		"iS": 114625,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/nick-p.jpg",
+		"oAP": "/public/assets/img/nick-p.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/nicky-moon.jpg": {
+	"/public/assets/img/nicky-moon.jpg": {
 		"ft": 16384,
 		"iS": 212648,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/nicky-moon.jpg",
+		"oAP": "/public/assets/img/nicky-moon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/rafferty.jpg": {
+	"/public/assets/img/rafferty.jpg": {
 		"ft": 16384,
 		"iS": 310189,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/rafferty.jpg",
+		"oAP": "/public/assets/img/rafferty.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/rochelle-c.jpg": {
+	"/public/assets/img/rochelle-c.jpg": {
 		"ft": 16384,
 		"iS": 146685,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/rochelle-c.jpg",
+		"oAP": "/public/assets/img/rochelle-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/tony-c.jpg": {
+	"/public/assets/img/tony-c.jpg": {
 		"ft": 16384,
 		"iS": 80567,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/tony-c.jpg",
+		"oAP": "/public/assets/img/tony-c.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/README.md": {
+	"/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -497,725 +542,843 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/resources.html": {
+	"/resources.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/resources.html",
+		"oAP": "/resources.html",
 		"oF": 0
 		},
-	"\/showcases.html": {
+	"/showcases.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/showcases.html",
+		"oAP": "/showcases.html",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_buttons.scssc": {
+	"/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_buttons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_buttons.scssc",
+		"oAP": "/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_buttons.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_icons.scssc": {
+	"/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_icons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_icons.scssc",
+		"oAP": "/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_icons.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_index.scssc": {
+	"/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_index.scssc",
+		"oAP": "/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_index.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_typography.scssc": {
+	"/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_typography.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/0d785b0b6db1bac55982edebbfd085b9a7d3c137\/_typography.scssc",
+		"oAP": "/styles/.sass-cache/0d785b0b6db1bac55982edebbfd085b9a7d3c137/_typography.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_columns.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_columns.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_columns.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_columns.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_containers.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_containers.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_containers.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_containers.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_extends.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_extends.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_extends.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_extends.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_footer.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_footer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_footer.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_footer.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_header.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_header.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_header.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_header.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_index.scssc": {
+	"/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/26d1db8207703f098495c8bf3138857841cfd85a\/_index.scssc",
+		"oAP": "/styles/.sass-cache/26d1db8207703f098495c8bf3138857841cfd85a/_index.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_convert-units.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_convert-units.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_convert-units.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_convert-units.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_directional-values.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_directional-values.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_directional-values.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_directional-values.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_font-source-declaration.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_font-source-declaration.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_font-source-declaration.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_font-source-declaration.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_gradient-positions-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_gradient-positions-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_gradient-positions-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_gradient-positions-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-angle-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-angle-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-angle-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-angle-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-gradient-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-gradient-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-gradient-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-gradient-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-positions-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-positions-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-positions-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-positions-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-side-corner-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-side-corner-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_linear-side-corner-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_linear-side-corner-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-arg-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-arg-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-arg-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-arg-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-gradient-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-gradient-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-gradient-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-gradient-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-positions-parser.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-positions-parser.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_radial-positions-parser.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_radial-positions-parser.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_render-gradients.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_render-gradients.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_render-gradients.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_render-gradients.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_shape-size-stripper.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_shape-size-stripper.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_shape-size-stripper.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_shape-size-stripper.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_str-to-num.scssc": {
+	"/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_str-to-num.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/3ffb8a5d972d6ca981044704d14825b0676adfac\/_str-to-num.scssc",
+		"oAP": "/styles/.sass-cache/3ffb8a5d972d6ca981044704d14825b0676adfac/_str-to-num.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/7aaee62f5fd56ebf418423ce82f41b41c888a14a\/_clearfix.scssc": {
+	"/styles/.sass-cache/7aaee62f5fd56ebf418423ce82f41b41c888a14a/_clearfix.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/7aaee62f5fd56ebf418423ce82f41b41c888a14a\/_clearfix.scssc",
+		"oAP": "/styles/.sass-cache/7aaee62f5fd56ebf418423ce82f41b41c888a14a/_clearfix.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_asset-pipeline.scssc": {
+	"/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_asset-pipeline.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_asset-pipeline.scssc",
+		"oAP": "/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_asset-pipeline.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_prefixer.scssc": {
+	"/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_prefixer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_prefixer.scssc",
+		"oAP": "/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_prefixer.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_px-to-em.scssc": {
+	"/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_px-to-em.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8005f0b496e4ee54041cbc3bf4aba36949c1c297\/_px-to-em.scssc",
+		"oAP": "/styles/.sass-cache/8005f0b496e4ee54041cbc3bf4aba36949c1c297/_px-to-em.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_assign-inputs.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_assign-inputs.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_assign-inputs.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_assign-inputs.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_contains-falsy.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_contains-falsy.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_contains-falsy.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_contains-falsy.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_contains.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_contains.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_contains.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_contains.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-length.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-length.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-length.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-length.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-light.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-light.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-light.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-light.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-number.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-number.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-number.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-number.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-size.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-size.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_is-size.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_is-size.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_modular-scale.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_modular-scale.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_modular-scale.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_modular-scale.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_px-to-em.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_px-to-em.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_px-to-em.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_px-to-em.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_px-to-rem.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_px-to-rem.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_px-to-rem.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_px-to-rem.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_shade.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_shade.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_shade.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_shade.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_strip-units.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_strip-units.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_strip-units.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_strip-units.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_tint.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_tint.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_tint.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_tint.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_transition-property-name.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_transition-property-name.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_transition-property-name.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_transition-property-name.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_unpack.scssc": {
+	"/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_unpack.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86206237f6209d48b8e82e0ddf27160baad0ee3a\/_unpack.scssc",
+		"oAP": "/styles/.sass-cache/86206237f6209d48b8e82e0ddf27160baad0ee3a/_unpack.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86563e65fe14be49be4f42abf36c329473c6842a\/_bourbon-deprecated-upcoming.scssc": {
+	"/styles/.sass-cache/86563e65fe14be49be4f42abf36c329473c6842a/_bourbon-deprecated-upcoming.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86563e65fe14be49be4f42abf36c329473c6842a\/_bourbon-deprecated-upcoming.scssc",
+		"oAP": "/styles/.sass-cache/86563e65fe14be49be4f42abf36c329473c6842a/_bourbon-deprecated-upcoming.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/86563e65fe14be49be4f42abf36c329473c6842a\/_bourbon.scssc": {
+	"/styles/.sass-cache/86563e65fe14be49be4f42abf36c329473c6842a/_bourbon.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/86563e65fe14be49be4f42abf36c329473c6842a\/_bourbon.scssc",
+		"oAP": "/styles/.sass-cache/86563e65fe14be49be4f42abf36c329473c6842a/_bourbon.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_disable-warnings.scssc": {
+	"/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_disable-warnings.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_disable-warnings.scssc",
+		"oAP": "/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_disable-warnings.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_grid.scssc": {
+	"/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_grid.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_grid.scssc",
+		"oAP": "/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_grid.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_visual-grid.scssc": {
+	"/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_visual-grid.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/8f5993d28661f6101a795195141c6723f7849af3\/_visual-grid.scssc",
+		"oAP": "/styles/.sass-cache/8f5993d28661f6101a795195141c6723f7849af3/_visual-grid.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/9da0765c0ed911c1b378f924e76933d63d7a38bf\/app.scssc": {
+	"/styles/.sass-cache/9da0765c0ed911c1b378f924e76933d63d7a38bf/app.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/styles\/.sass-cache\/9da0765c0ed911c1b378f924e76933d63d7a38bf\/app.scssc",
+		"oAP": "/styles/.sass-cache/9da0765c0ed911c1b378f924e76933d63d7a38bf/app.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-color.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-color.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-color.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-color.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-radius.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-radius.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-radius.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-radius.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-style.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-style.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-style.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-style.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-width.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-width.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_border-width.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_border-width.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_buttons.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_buttons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_buttons.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_buttons.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_clearfix.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_clearfix.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_clearfix.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_clearfix.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_ellipsis.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_ellipsis.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_ellipsis.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_ellipsis.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_font-stacks.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_font-stacks.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_font-stacks.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_font-stacks.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_hide-text.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_hide-text.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_hide-text.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_hide-text.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_margin.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_margin.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_margin.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_margin.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_padding.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_padding.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_padding.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_padding.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_position.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_position.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_position.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_position.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_prefixer.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_prefixer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_prefixer.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_prefixer.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_retina-image.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_retina-image.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_retina-image.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_retina-image.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_size.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_size.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_size.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_size.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_text-inputs.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_text-inputs.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_text-inputs.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_text-inputs.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_timing-functions.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_timing-functions.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_timing-functions.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_timing-functions.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_triangle.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_triangle.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_triangle.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_triangle.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_word-wrap.scssc": {
+	"/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_word-wrap.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a64414089866b55cf3f5307fc61e75cf28eb1a61\/_word-wrap.scssc",
+		"oAP": "/styles/.sass-cache/a64414089866b55cf3f5307fc61e75cf28eb1a61/_word-wrap.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_base.scssc": {
+	"/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_base.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_base.scssc",
+		"oAP": "/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_base.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_index.scssc": {
+	"/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_index.scssc",
+		"oAP": "/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_index.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_mixins.scssc": {
+	"/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_mixins.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_mixins.scssc",
+		"oAP": "/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_mixins.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_variables.scssc": {
+	"/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_variables.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/a6a600dcf10a228b84996d182ee491d3196a0e44\/_variables.scssc",
+		"oAP": "/styles/.sass-cache/a6a600dcf10a228b84996d182ee491d3196a0e44/_variables.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_animation.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_animation.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_animation.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_animation.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_appearance.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_appearance.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_appearance.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_appearance.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_backface-visibility.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_backface-visibility.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_backface-visibility.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_backface-visibility.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_background-image.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_background-image.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_background-image.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_background-image.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_background.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_background.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_background.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_background.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_border-image.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_border-image.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_border-image.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_border-image.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_calc.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_calc.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_calc.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_calc.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_columns.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_columns.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_columns.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_columns.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_filter.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_filter.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_filter.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_filter.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_flex-box.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_flex-box.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_flex-box.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_flex-box.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_font-face.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_font-face.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_font-face.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_font-face.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_font-feature-settings.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_font-feature-settings.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_font-feature-settings.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_font-feature-settings.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_hidpi-media-query.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_hidpi-media-query.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_hidpi-media-query.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_hidpi-media-query.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_hyphens.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_hyphens.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_hyphens.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_hyphens.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_image-rendering.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_image-rendering.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_image-rendering.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_image-rendering.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_keyframes.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_keyframes.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_keyframes.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_keyframes.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_linear-gradient.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_linear-gradient.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_linear-gradient.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_linear-gradient.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_perspective.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_perspective.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_perspective.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_perspective.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_placeholder.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_placeholder.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_placeholder.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_placeholder.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_radial-gradient.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_radial-gradient.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_radial-gradient.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_radial-gradient.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_selection.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_selection.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_selection.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_selection.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_text-decoration.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_text-decoration.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_text-decoration.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_text-decoration.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_transform.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_transform.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_transform.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_transform.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_transition.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_transition.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_transition.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_transition.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_user-select.scssc": {
+	"/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_user-select.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d\/_user-select.scssc",
+		"oAP": "/styles/.sass-cache/bfcec5be942a4b9e8a77bf1cfe2a6ffca71d178d/_user-select.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/d24af189aaf436baa3ef004ec441eb3b4449b351\/_new-breakpoint.scssc": {
+	"/styles/.sass-cache/d24af189aaf436baa3ef004ec441eb3b4449b351/_new-breakpoint.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/d24af189aaf436baa3ef004ec441eb3b4449b351\/_new-breakpoint.scssc",
+		"oAP": "/styles/.sass-cache/d24af189aaf436baa3ef004ec441eb3b4449b351/_new-breakpoint.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/d24af189aaf436baa3ef004ec441eb3b4449b351\/_private.scssc": {
+	"/styles/.sass-cache/d24af189aaf436baa3ef004ec441eb3b4449b351/_private.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/d24af189aaf436baa3ef004ec441eb3b4449b351\/_private.scssc",
+		"oAP": "/styles/.sass-cache/d24af189aaf436baa3ef004ec441eb3b4449b351/_private.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_box-sizing.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_box-sizing.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_box-sizing.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_box-sizing.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_direction-context.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_direction-context.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_direction-context.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_direction-context.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_display-context.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_display-context.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_display-context.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_display-context.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_fill-parent.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_fill-parent.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_fill-parent.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_fill-parent.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_media.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_media.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_media.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_media.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_omega.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_omega.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_omega.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_omega.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_outer-container.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_outer-container.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_outer-container.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_outer-container.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_pad.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_pad.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_pad.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_pad.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_private.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_private.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_private.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_private.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_row.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_row.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_row.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_row.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_shift.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_shift.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_shift.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_shift.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_span-columns.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_span-columns.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_span-columns.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_span-columns.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_to-deprecate.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_to-deprecate.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_to-deprecate.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_to-deprecate.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_visual-grid.scssc": {
+	"/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_visual-grid.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/ef689ec366258c5b115d8e4207434b34540879c5\/_visual-grid.scssc",
+		"oAP": "/styles/.sass-cache/ef689ec366258c5b115d8e4207434b34540879c5/_visual-grid.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2\/_neat-helpers.scssc": {
+	"/styles/.sass-cache/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2/_neat-helpers.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2\/_neat-helpers.scssc",
+		"oAP": "/styles/.sass-cache/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2/_neat-helpers.scssc",
 		"oF": 0
 		},
-	"\/styles\/.sass-cache\/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2\/_neat.scssc": {
+	"/styles/.sass-cache/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2/_neat.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/styles\/.sass-cache\/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2\/_neat.scssc",
+		"oAP": "/styles/.sass-cache/fb07f192c5d62a8832e767e22d7f2f7e93f9bcf2/_neat.scssc",
 		"oF": 0
 		},
-	"\/styles\/css\/app.css": {
+	"/styles/css/app.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/styles\/css\/app.css",
+		"oAP": "/styles/css/app.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/styles\/css\/app.css.map": {
+	"/styles/css/app.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/styles\/css\/app.css.map",
+		"oAP": "/styles/css/app.css.map",
 		"oF": 0
 		},
-	"\/styles\/scss\/app.scss": {
+	"/styles/scss/app.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1223,12 +1386,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/styles\/css\/app.css",
+		"oAP": "/styles/css/app.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/base\/_base.scss": {
+	"/styles/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1236,12 +1399,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/base\/_base.css",
+		"oAP": "/styles/scss/base/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/base\/_index.scss": {
+	"/styles/scss/base/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1249,12 +1412,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/base\/_index.css",
+		"oAP": "/styles/scss/base/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/base\/_mixins.scss": {
+	"/styles/scss/base/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1262,12 +1425,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/base\/_mixins.css",
+		"oAP": "/styles/scss/base/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/base\/_variables.scss": {
+	"/styles/scss/base/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1275,12 +1438,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/base\/_variables.css",
+		"oAP": "/styles/scss/base/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/_bourbon-deprecated-upcoming.scss": {
+	"/styles/scss/bourbon/_bourbon-deprecated-upcoming.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1288,12 +1451,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/_bourbon-deprecated-upcoming.css",
+		"oAP": "/styles/scss/bourbon/_bourbon-deprecated-upcoming.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/_bourbon.scss": {
+	"/styles/scss/bourbon/_bourbon.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1301,12 +1464,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/_bourbon.css",
+		"oAP": "/styles/scss/bourbon/_bourbon.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_border-color.scss": {
+	"/styles/scss/bourbon/addons/_border-color.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1314,12 +1477,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_border-color.css",
+		"oAP": "/styles/scss/bourbon/addons/_border-color.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_border-radius.scss": {
+	"/styles/scss/bourbon/addons/_border-radius.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1327,12 +1490,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_border-radius.css",
+		"oAP": "/styles/scss/bourbon/addons/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_border-style.scss": {
+	"/styles/scss/bourbon/addons/_border-style.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1340,12 +1503,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_border-style.css",
+		"oAP": "/styles/scss/bourbon/addons/_border-style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_border-width.scss": {
+	"/styles/scss/bourbon/addons/_border-width.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1353,12 +1516,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_border-width.css",
+		"oAP": "/styles/scss/bourbon/addons/_border-width.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_buttons.scss": {
+	"/styles/scss/bourbon/addons/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1366,12 +1529,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_buttons.css",
+		"oAP": "/styles/scss/bourbon/addons/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_clearfix.scss": {
+	"/styles/scss/bourbon/addons/_clearfix.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1379,12 +1542,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_clearfix.css",
+		"oAP": "/styles/scss/bourbon/addons/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_ellipsis.scss": {
+	"/styles/scss/bourbon/addons/_ellipsis.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1392,12 +1555,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_ellipsis.css",
+		"oAP": "/styles/scss/bourbon/addons/_ellipsis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_font-stacks.scss": {
+	"/styles/scss/bourbon/addons/_font-stacks.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1405,12 +1568,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_font-stacks.css",
+		"oAP": "/styles/scss/bourbon/addons/_font-stacks.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_hide-text.scss": {
+	"/styles/scss/bourbon/addons/_hide-text.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1418,12 +1581,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_hide-text.css",
+		"oAP": "/styles/scss/bourbon/addons/_hide-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_margin.scss": {
+	"/styles/scss/bourbon/addons/_margin.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1431,12 +1594,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_margin.css",
+		"oAP": "/styles/scss/bourbon/addons/_margin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_padding.scss": {
+	"/styles/scss/bourbon/addons/_padding.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1444,12 +1607,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_padding.css",
+		"oAP": "/styles/scss/bourbon/addons/_padding.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_position.scss": {
+	"/styles/scss/bourbon/addons/_position.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1457,12 +1620,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_position.css",
+		"oAP": "/styles/scss/bourbon/addons/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_prefixer.scss": {
+	"/styles/scss/bourbon/addons/_prefixer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1470,12 +1633,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_prefixer.css",
+		"oAP": "/styles/scss/bourbon/addons/_prefixer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_retina-image.scss": {
+	"/styles/scss/bourbon/addons/_retina-image.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1483,12 +1646,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_retina-image.css",
+		"oAP": "/styles/scss/bourbon/addons/_retina-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_size.scss": {
+	"/styles/scss/bourbon/addons/_size.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1496,12 +1659,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_size.css",
+		"oAP": "/styles/scss/bourbon/addons/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_text-inputs.scss": {
+	"/styles/scss/bourbon/addons/_text-inputs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1509,12 +1672,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_text-inputs.css",
+		"oAP": "/styles/scss/bourbon/addons/_text-inputs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_timing-functions.scss": {
+	"/styles/scss/bourbon/addons/_timing-functions.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1522,12 +1685,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_timing-functions.css",
+		"oAP": "/styles/scss/bourbon/addons/_timing-functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_triangle.scss": {
+	"/styles/scss/bourbon/addons/_triangle.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1535,12 +1698,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_triangle.css",
+		"oAP": "/styles/scss/bourbon/addons/_triangle.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/addons\/_word-wrap.scss": {
+	"/styles/scss/bourbon/addons/_word-wrap.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1548,12 +1711,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/addons\/_word-wrap.css",
+		"oAP": "/styles/scss/bourbon/addons/_word-wrap.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_animation.scss": {
+	"/styles/scss/bourbon/css3/_animation.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1561,12 +1724,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_animation.css",
+		"oAP": "/styles/scss/bourbon/css3/_animation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_appearance.scss": {
+	"/styles/scss/bourbon/css3/_appearance.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1574,12 +1737,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_appearance.css",
+		"oAP": "/styles/scss/bourbon/css3/_appearance.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_backface-visibility.scss": {
+	"/styles/scss/bourbon/css3/_backface-visibility.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1587,12 +1750,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_backface-visibility.css",
+		"oAP": "/styles/scss/bourbon/css3/_backface-visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_background-image.scss": {
+	"/styles/scss/bourbon/css3/_background-image.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1600,12 +1763,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_background-image.css",
+		"oAP": "/styles/scss/bourbon/css3/_background-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_background.scss": {
+	"/styles/scss/bourbon/css3/_background.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1613,12 +1776,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_background.css",
+		"oAP": "/styles/scss/bourbon/css3/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_border-image.scss": {
+	"/styles/scss/bourbon/css3/_border-image.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1626,12 +1789,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_border-image.css",
+		"oAP": "/styles/scss/bourbon/css3/_border-image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_calc.scss": {
+	"/styles/scss/bourbon/css3/_calc.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1639,12 +1802,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_calc.css",
+		"oAP": "/styles/scss/bourbon/css3/_calc.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_columns.scss": {
+	"/styles/scss/bourbon/css3/_columns.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1652,12 +1815,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_columns.css",
+		"oAP": "/styles/scss/bourbon/css3/_columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_filter.scss": {
+	"/styles/scss/bourbon/css3/_filter.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1665,12 +1828,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_filter.css",
+		"oAP": "/styles/scss/bourbon/css3/_filter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_flex-box.scss": {
+	"/styles/scss/bourbon/css3/_flex-box.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1678,12 +1841,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_flex-box.css",
+		"oAP": "/styles/scss/bourbon/css3/_flex-box.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_font-face.scss": {
+	"/styles/scss/bourbon/css3/_font-face.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1691,12 +1854,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_font-face.css",
+		"oAP": "/styles/scss/bourbon/css3/_font-face.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_font-feature-settings.scss": {
+	"/styles/scss/bourbon/css3/_font-feature-settings.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1704,12 +1867,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_font-feature-settings.css",
+		"oAP": "/styles/scss/bourbon/css3/_font-feature-settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_hidpi-media-query.scss": {
+	"/styles/scss/bourbon/css3/_hidpi-media-query.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1717,12 +1880,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_hidpi-media-query.css",
+		"oAP": "/styles/scss/bourbon/css3/_hidpi-media-query.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_hyphens.scss": {
+	"/styles/scss/bourbon/css3/_hyphens.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1730,12 +1893,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_hyphens.css",
+		"oAP": "/styles/scss/bourbon/css3/_hyphens.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_image-rendering.scss": {
+	"/styles/scss/bourbon/css3/_image-rendering.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1743,12 +1906,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_image-rendering.css",
+		"oAP": "/styles/scss/bourbon/css3/_image-rendering.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_keyframes.scss": {
+	"/styles/scss/bourbon/css3/_keyframes.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1756,12 +1919,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_keyframes.css",
+		"oAP": "/styles/scss/bourbon/css3/_keyframes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_linear-gradient.scss": {
+	"/styles/scss/bourbon/css3/_linear-gradient.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1769,12 +1932,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_linear-gradient.css",
+		"oAP": "/styles/scss/bourbon/css3/_linear-gradient.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_perspective.scss": {
+	"/styles/scss/bourbon/css3/_perspective.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1782,12 +1945,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_perspective.css",
+		"oAP": "/styles/scss/bourbon/css3/_perspective.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_placeholder.scss": {
+	"/styles/scss/bourbon/css3/_placeholder.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1795,12 +1958,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_placeholder.css",
+		"oAP": "/styles/scss/bourbon/css3/_placeholder.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_radial-gradient.scss": {
+	"/styles/scss/bourbon/css3/_radial-gradient.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1808,12 +1971,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_radial-gradient.css",
+		"oAP": "/styles/scss/bourbon/css3/_radial-gradient.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_selection.scss": {
+	"/styles/scss/bourbon/css3/_selection.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1821,12 +1984,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_selection.css",
+		"oAP": "/styles/scss/bourbon/css3/_selection.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_text-decoration.scss": {
+	"/styles/scss/bourbon/css3/_text-decoration.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1834,12 +1997,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_text-decoration.css",
+		"oAP": "/styles/scss/bourbon/css3/_text-decoration.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_transform.scss": {
+	"/styles/scss/bourbon/css3/_transform.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1847,12 +2010,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_transform.css",
+		"oAP": "/styles/scss/bourbon/css3/_transform.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_transition.scss": {
+	"/styles/scss/bourbon/css3/_transition.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1860,12 +2023,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_transition.css",
+		"oAP": "/styles/scss/bourbon/css3/_transition.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/css3\/_user-select.scss": {
+	"/styles/scss/bourbon/css3/_user-select.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1873,12 +2036,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/css3\/_user-select.css",
+		"oAP": "/styles/scss/bourbon/css3/_user-select.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_assign-inputs.scss": {
+	"/styles/scss/bourbon/functions/_assign-inputs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1886,12 +2049,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_assign-inputs.css",
+		"oAP": "/styles/scss/bourbon/functions/_assign-inputs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_contains-falsy.scss": {
+	"/styles/scss/bourbon/functions/_contains-falsy.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1899,12 +2062,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_contains-falsy.css",
+		"oAP": "/styles/scss/bourbon/functions/_contains-falsy.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_contains.scss": {
+	"/styles/scss/bourbon/functions/_contains.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1912,12 +2075,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_contains.css",
+		"oAP": "/styles/scss/bourbon/functions/_contains.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_is-length.scss": {
+	"/styles/scss/bourbon/functions/_is-length.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1925,12 +2088,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_is-length.css",
+		"oAP": "/styles/scss/bourbon/functions/_is-length.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_is-light.scss": {
+	"/styles/scss/bourbon/functions/_is-light.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1938,12 +2101,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_is-light.css",
+		"oAP": "/styles/scss/bourbon/functions/_is-light.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_is-number.scss": {
+	"/styles/scss/bourbon/functions/_is-number.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1951,12 +2114,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_is-number.css",
+		"oAP": "/styles/scss/bourbon/functions/_is-number.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_is-size.scss": {
+	"/styles/scss/bourbon/functions/_is-size.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1964,12 +2127,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_is-size.css",
+		"oAP": "/styles/scss/bourbon/functions/_is-size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_modular-scale.scss": {
+	"/styles/scss/bourbon/functions/_modular-scale.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1977,12 +2140,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_modular-scale.css",
+		"oAP": "/styles/scss/bourbon/functions/_modular-scale.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_px-to-em.scss": {
+	"/styles/scss/bourbon/functions/_px-to-em.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1990,12 +2153,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_px-to-em.css",
+		"oAP": "/styles/scss/bourbon/functions/_px-to-em.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_px-to-rem.scss": {
+	"/styles/scss/bourbon/functions/_px-to-rem.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2003,12 +2166,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_px-to-rem.css",
+		"oAP": "/styles/scss/bourbon/functions/_px-to-rem.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_shade.scss": {
+	"/styles/scss/bourbon/functions/_shade.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2016,12 +2179,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_shade.css",
+		"oAP": "/styles/scss/bourbon/functions/_shade.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_strip-units.scss": {
+	"/styles/scss/bourbon/functions/_strip-units.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2029,12 +2192,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_strip-units.css",
+		"oAP": "/styles/scss/bourbon/functions/_strip-units.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_tint.scss": {
+	"/styles/scss/bourbon/functions/_tint.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2042,12 +2205,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_tint.css",
+		"oAP": "/styles/scss/bourbon/functions/_tint.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_transition-property-name.scss": {
+	"/styles/scss/bourbon/functions/_transition-property-name.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2055,12 +2218,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_transition-property-name.css",
+		"oAP": "/styles/scss/bourbon/functions/_transition-property-name.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/functions\/_unpack.scss": {
+	"/styles/scss/bourbon/functions/_unpack.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2068,12 +2231,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/functions\/_unpack.css",
+		"oAP": "/styles/scss/bourbon/functions/_unpack.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_convert-units.scss": {
+	"/styles/scss/bourbon/helpers/_convert-units.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2081,12 +2244,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_convert-units.css",
+		"oAP": "/styles/scss/bourbon/helpers/_convert-units.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_directional-values.scss": {
+	"/styles/scss/bourbon/helpers/_directional-values.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2094,12 +2257,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_directional-values.css",
+		"oAP": "/styles/scss/bourbon/helpers/_directional-values.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_font-source-declaration.scss": {
+	"/styles/scss/bourbon/helpers/_font-source-declaration.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2107,12 +2270,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_font-source-declaration.css",
+		"oAP": "/styles/scss/bourbon/helpers/_font-source-declaration.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_gradient-positions-parser.scss": {
+	"/styles/scss/bourbon/helpers/_gradient-positions-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2120,12 +2283,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_gradient-positions-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_gradient-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_linear-angle-parser.scss": {
+	"/styles/scss/bourbon/helpers/_linear-angle-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2133,12 +2296,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_linear-angle-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_linear-angle-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_linear-gradient-parser.scss": {
+	"/styles/scss/bourbon/helpers/_linear-gradient-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2146,12 +2309,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_linear-gradient-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_linear-gradient-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_linear-positions-parser.scss": {
+	"/styles/scss/bourbon/helpers/_linear-positions-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2159,12 +2322,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_linear-positions-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_linear-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_linear-side-corner-parser.scss": {
+	"/styles/scss/bourbon/helpers/_linear-side-corner-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2172,12 +2335,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_linear-side-corner-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_linear-side-corner-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_radial-arg-parser.scss": {
+	"/styles/scss/bourbon/helpers/_radial-arg-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2185,12 +2348,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_radial-arg-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_radial-arg-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_radial-gradient-parser.scss": {
+	"/styles/scss/bourbon/helpers/_radial-gradient-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2198,12 +2361,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_radial-gradient-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_radial-gradient-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_radial-positions-parser.scss": {
+	"/styles/scss/bourbon/helpers/_radial-positions-parser.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2211,12 +2374,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_radial-positions-parser.css",
+		"oAP": "/styles/scss/bourbon/helpers/_radial-positions-parser.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_render-gradients.scss": {
+	"/styles/scss/bourbon/helpers/_render-gradients.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2224,12 +2387,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_render-gradients.css",
+		"oAP": "/styles/scss/bourbon/helpers/_render-gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_shape-size-stripper.scss": {
+	"/styles/scss/bourbon/helpers/_shape-size-stripper.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2237,12 +2400,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_shape-size-stripper.css",
+		"oAP": "/styles/scss/bourbon/helpers/_shape-size-stripper.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/helpers\/_str-to-num.scss": {
+	"/styles/scss/bourbon/helpers/_str-to-num.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2250,12 +2413,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/helpers\/_str-to-num.css",
+		"oAP": "/styles/scss/bourbon/helpers/_str-to-num.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/settings\/_asset-pipeline.scss": {
+	"/styles/scss/bourbon/settings/_asset-pipeline.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2263,12 +2426,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/settings\/_asset-pipeline.css",
+		"oAP": "/styles/scss/bourbon/settings/_asset-pipeline.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/settings\/_prefixer.scss": {
+	"/styles/scss/bourbon/settings/_prefixer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2276,12 +2439,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/settings\/_prefixer.css",
+		"oAP": "/styles/scss/bourbon/settings/_prefixer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/bourbon\/settings\/_px-to-em.scss": {
+	"/styles/scss/bourbon/settings/_px-to-em.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2289,12 +2452,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/bourbon\/settings\/_px-to-em.css",
+		"oAP": "/styles/scss/bourbon/settings/_px-to-em.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/components\/_buttons.scss": {
+	"/styles/scss/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2302,12 +2465,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/components\/_buttons.css",
+		"oAP": "/styles/scss/components/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/components\/_icons.scss": {
+	"/styles/scss/components/_icons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2315,12 +2478,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/components\/_icons.css",
+		"oAP": "/styles/scss/components/_icons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/components\/_index.scss": {
+	"/styles/scss/components/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2328,12 +2491,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/components\/_index.css",
+		"oAP": "/styles/scss/components/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/components\/_typography.scss": {
+	"/styles/scss/components/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2341,12 +2504,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/components\/_typography.css",
+		"oAP": "/styles/scss/components/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_columns.scss": {
+	"/styles/scss/layout/_columns.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2354,12 +2517,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_columns.css",
+		"oAP": "/styles/scss/layout/_columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_containers.scss": {
+	"/styles/scss/layout/_containers.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2367,12 +2530,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_containers.css",
+		"oAP": "/styles/scss/layout/_containers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_extends.scss": {
+	"/styles/scss/layout/_extends.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2380,12 +2543,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_extends.css",
+		"oAP": "/styles/scss/layout/_extends.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_footer.scss": {
+	"/styles/scss/layout/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2393,12 +2556,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_footer.css",
+		"oAP": "/styles/scss/layout/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_header.scss": {
+	"/styles/scss/layout/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2406,12 +2569,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_header.css",
+		"oAP": "/styles/scss/layout/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/layout\/_index.scss": {
+	"/styles/scss/layout/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2419,12 +2582,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/layout\/_index.css",
+		"oAP": "/styles/scss/layout/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/_neat-helpers.scss": {
+	"/styles/scss/neat/_neat-helpers.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2432,12 +2595,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/_neat-helpers.css",
+		"oAP": "/styles/scss/neat/_neat-helpers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/_neat.scss": {
+	"/styles/scss/neat/_neat.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2445,12 +2608,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/_neat.css",
+		"oAP": "/styles/scss/neat/_neat.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/functions\/_new-breakpoint.scss": {
+	"/styles/scss/neat/functions/_new-breakpoint.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2458,12 +2621,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/functions\/_new-breakpoint.css",
+		"oAP": "/styles/scss/neat/functions/_new-breakpoint.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/functions\/_private.scss": {
+	"/styles/scss/neat/functions/_private.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2471,12 +2634,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/functions\/_private.css",
+		"oAP": "/styles/scss/neat/functions/_private.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_box-sizing.scss": {
+	"/styles/scss/neat/grid/_box-sizing.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2484,12 +2647,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_box-sizing.css",
+		"oAP": "/styles/scss/neat/grid/_box-sizing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_direction-context.scss": {
+	"/styles/scss/neat/grid/_direction-context.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2497,12 +2660,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_direction-context.css",
+		"oAP": "/styles/scss/neat/grid/_direction-context.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_display-context.scss": {
+	"/styles/scss/neat/grid/_display-context.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2510,12 +2673,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_display-context.css",
+		"oAP": "/styles/scss/neat/grid/_display-context.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_fill-parent.scss": {
+	"/styles/scss/neat/grid/_fill-parent.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2523,12 +2686,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_fill-parent.css",
+		"oAP": "/styles/scss/neat/grid/_fill-parent.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_media.scss": {
+	"/styles/scss/neat/grid/_media.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2536,12 +2699,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_media.css",
+		"oAP": "/styles/scss/neat/grid/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_omega.scss": {
+	"/styles/scss/neat/grid/_omega.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2549,12 +2712,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_omega.css",
+		"oAP": "/styles/scss/neat/grid/_omega.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_outer-container.scss": {
+	"/styles/scss/neat/grid/_outer-container.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2562,12 +2725,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_outer-container.css",
+		"oAP": "/styles/scss/neat/grid/_outer-container.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_pad.scss": {
+	"/styles/scss/neat/grid/_pad.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2575,12 +2738,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_pad.css",
+		"oAP": "/styles/scss/neat/grid/_pad.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_private.scss": {
+	"/styles/scss/neat/grid/_private.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2588,12 +2751,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_private.css",
+		"oAP": "/styles/scss/neat/grid/_private.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_row.scss": {
+	"/styles/scss/neat/grid/_row.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2601,12 +2764,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_row.css",
+		"oAP": "/styles/scss/neat/grid/_row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_shift.scss": {
+	"/styles/scss/neat/grid/_shift.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2614,12 +2777,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_shift.css",
+		"oAP": "/styles/scss/neat/grid/_shift.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_span-columns.scss": {
+	"/styles/scss/neat/grid/_span-columns.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2627,12 +2790,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_span-columns.css",
+		"oAP": "/styles/scss/neat/grid/_span-columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_to-deprecate.scss": {
+	"/styles/scss/neat/grid/_to-deprecate.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2640,12 +2803,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_to-deprecate.css",
+		"oAP": "/styles/scss/neat/grid/_to-deprecate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/grid\/_visual-grid.scss": {
+	"/styles/scss/neat/grid/_visual-grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2653,12 +2816,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/grid\/_visual-grid.css",
+		"oAP": "/styles/scss/neat/grid/_visual-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/mixins\/_clearfix.scss": {
+	"/styles/scss/neat/mixins/_clearfix.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2666,12 +2829,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/mixins\/_clearfix.css",
+		"oAP": "/styles/scss/neat/mixins/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/settings\/_disable-warnings.scss": {
+	"/styles/scss/neat/settings/_disable-warnings.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2679,12 +2842,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/settings\/_disable-warnings.css",
+		"oAP": "/styles/scss/neat/settings/_disable-warnings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/settings\/_grid.scss": {
+	"/styles/scss/neat/settings/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2692,12 +2855,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/settings\/_grid.css",
+		"oAP": "/styles/scss/neat/settings/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/styles\/scss\/neat\/settings\/_visual-grid.scss": {
+	"/styles/scss/neat/settings/_visual-grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2705,7 +2868,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/scss\/neat\/settings\/_visual-grid.css",
+		"oAP": "/styles/scss/neat/settings/_visual-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2719,147 +2882,102 @@
 	"creationDate": 506928772,
 	"displayValue": "pdx-comedy",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-kanye"
+	"iconImageName": "meme-kanye",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -2871,7 +2989,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -2883,7 +3022,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -2919,53 +3076,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -2974,6 +3124,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -3123,6 +3274,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -3130,6 +3285,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -3227,6 +3386,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -3243,9 +3406,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -3270,6 +3441,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -3303,9 +3478,13 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
 			},
 		"max-depth": {
 			"active": 0,
@@ -3318,6 +3497,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -3335,6 +3518,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -3344,14 +3531,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3367,6 +3546,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -3375,16 +3558,16 @@
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-caller": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -3583,9 +3766,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -3919,6 +4106,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -3932,6 +4123,10 @@
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-object-spread": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3963,6 +4158,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -3970,6 +4169,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 0,
@@ -3986,6 +4189,10 @@
 		"semi-spacing": {
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
 			},
 		"sort-imports": {
 			"active": 0,
@@ -4021,11 +4228,15 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -4077,7 +4288,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -4439,7 +4650,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -4471,7 +4683,7 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -4483,12 +4695,13 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -4513,25 +4726,26 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -4545,13 +4759,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4560,7 +4774,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -4580,12 +4795,13 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -4608,12 +4824,13 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -4637,34 +4854,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4672,11 +4925,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4700,6 +4953,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -4716,7 +4973,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4724,20 +4989,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -4752,6 +5029,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -4760,12 +5045,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -4776,11 +5069,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4792,23 +5093,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4820,9 +5149,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
